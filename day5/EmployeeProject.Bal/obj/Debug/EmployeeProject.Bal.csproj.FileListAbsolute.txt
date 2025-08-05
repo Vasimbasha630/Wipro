@@ -1,0 +1,12 @@
+C:\wipro\day5\EmployeeProject.Bal\bin\Debug\EmployeeProject.Bal.pdb
+C:\wipro\day5\EmployeeProject.Bal\bin\Debug\EmployeeProject.Dao.dll
+C:\wipro\day5\EmployeeProject.Bal\bin\Debug\EmployeeProject.dll
+C:\wipro\day5\EmployeeProject.Bal\bin\Debug\EmployeeProject.Exception.dll
+C:\wipro\day5\EmployeeProject.Bal\bin\Debug\EmployeeProject.pdb
+C:\wipro\day5\EmployeeProject.Bal\bin\Debug\EmployeeProject.Dao.pdb
+C:\wipro\day5\EmployeeProject.Bal\bin\Debug\EmployeeProject.Exception.pdb
+C:\wipro\day5\EmployeeProject.Bal\obj\Debug\EmployeeProject.Bal.csproj.AssemblyReference.cache
+C:\wipro\day5\EmployeeProject.Bal\obj\Debug\EmployeeProject.Bal.csproj.CoreCompileInputs.cache
+C:\wipro\day5\EmployeeProject.Bal\obj\Debug\Employee.7F483F2E.Up2Date
+C:\wipro\day5\EmployeeProject.Bal\obj\Debug\EmployeeProject.Bal.dll
+C:\wipro\day5\EmployeeProject.Bal\obj\Debug\EmployeeProject.Bal.pdb

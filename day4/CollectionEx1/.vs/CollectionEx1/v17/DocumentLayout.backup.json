@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\day4\\CollectionEx1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{643A7E02-30D2-435F-84AC-20F984530DF1}|CollectionEx1\\CollectionEx1.csproj|c:\\wipro\\day4\\collectionex1\\collectionex1\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643A7E02-30D2-435F-84AC-20F984530DF1}|CollectionEx1\\CollectionEx1.csproj|solutionrelative:collectionex1\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643A7E02-30D2-435F-84AC-20F984530DF1}|CollectionEx1\\CollectionEx1.csproj|c:\\wipro\\day4\\collectionex1\\collectionex1\\employeeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643A7E02-30D2-435F-84AC-20F984530DF1}|CollectionEx1\\CollectionEx1.csproj|solutionrelative:collectionex1\\employeeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CollectionEx1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643A7E02-30D2-435F-84AC-20F984530DF1}|CollectionEx1\\CollectionEx1.csproj|c:\\wipro\\day4\\collectionex1\\collectionex1\\addingindexingandremoving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643A7E02-30D2-435F-84AC-20F984530DF1}|CollectionEx1\\CollectionEx1.csproj|solutionrelative:collectionex1\\addingindexingandremoving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643A7E02-30D2-435F-84AC-20F984530DF1}|CollectionEx1\\CollectionEx1.csproj|c:\\wipro\\day4\\collectionex1\\collectionex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643A7E02-30D2-435F-84AC-20F984530DF1}|CollectionEx1\\CollectionEx1.csproj|solutionrelative:collectionex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643A7E02-30D2-435F-84AC-20F984530DF1}|CollectionEx1\\CollectionEx1.csproj|c:\\wipro\\day4\\collectionex1\\collectionex1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employeeextension.cs",
+              "DocumentMoniker": "C:\\wipro\\day4\\CollectionEx1\\CollectionEx1\\Employeeextension.cs",
+              "RelativeDocumentMoniker": "CollectionEx1\\Employeeextension.cs",
+              "ToolTip": "C:\\wipro\\day4\\CollectionEx1\\CollectionEx1\\Employeeextension.cs",
+              "RelativeToolTip": "CollectionEx1\\Employeeextension.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:36:38.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDetails.cs",
+              "DocumentMoniker": "C:\\wipro\\day4\\CollectionEx1\\CollectionEx1\\EmployeeDetails.cs",
+              "RelativeDocumentMoniker": "CollectionEx1\\EmployeeDetails.cs",
+              "ToolTip": "C:\\wipro\\day4\\CollectionEx1\\CollectionEx1\\EmployeeDetails.cs",
+              "RelativeToolTip": "CollectionEx1\\EmployeeDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:35:04.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddingIndexingandRemoving.cs",
+              "DocumentMoniker": "C:\\wipro\\day4\\CollectionEx1\\CollectionEx1\\AddingIndexingandRemoving.cs",
+              "RelativeDocumentMoniker": "CollectionEx1\\AddingIndexingandRemoving.cs",
+              "ToolTip": "C:\\wipro\\day4\\CollectionEx1\\CollectionEx1\\AddingIndexingandRemoving.cs",
+              "RelativeToolTip": "CollectionEx1\\AddingIndexingandRemoving.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:22:31.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollectionEx1",
+              "DocumentMoniker": "C:\\wipro\\day4\\CollectionEx1\\CollectionEx1\\CollectionEx1.csproj",
+              "RelativeDocumentMoniker": "CollectionEx1\\CollectionEx1.csproj",
+              "ToolTip": "C:\\wipro\\day4\\CollectionEx1\\CollectionEx1\\CollectionEx1.csproj",
+              "RelativeToolTip": "CollectionEx1\\CollectionEx1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-25T05:20:35.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\day4\\CollectionEx1\\CollectionEx1\\Program.cs",
+              "RelativeDocumentMoniker": "CollectionEx1\\Program.cs",
+              "ToolTip": "C:\\wipro\\day4\\CollectionEx1\\CollectionEx1\\Program.cs",
+              "RelativeToolTip": "CollectionEx1\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:13:48.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

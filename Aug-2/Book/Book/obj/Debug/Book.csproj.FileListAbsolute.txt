@@ -1,0 +1,6 @@
+C:\wipro\Aug-2\Book\Book\bin\Debug\Book.dll
+C:\wipro\Aug-2\Book\Book\bin\Debug\Book.pdb
+C:\wipro\Aug-2\Book\Book\obj\Debug\Book.csproj.AssemblyReference.cache
+C:\wipro\Aug-2\Book\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+C:\wipro\Aug-2\Book\Book\obj\Debug\Book.dll
+C:\wipro\Aug-2\Book\Book\obj\Debug\Book.pdb

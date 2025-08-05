@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\day4\\FileHandlingEx1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29914545-8DE4-4AB6-85F1-914B1036B50D}|FileHandlingEx1\\FileHandlingEx1.csproj|c:\\wipro\\day4\\filehandlingex1\\filehandlingex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29914545-8DE4-4AB6-85F1-914B1036B50D}|FileHandlingEx1\\FileHandlingEx1.csproj|solutionrelative:filehandlingex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\day4\\FileHandlingEx1\\FileHandlingEx1\\Program.cs",
+              "RelativeDocumentMoniker": "FileHandlingEx1\\Program.cs",
+              "ToolTip": "C:\\wipro\\day4\\FileHandlingEx1\\FileHandlingEx1\\Program.cs",
+              "RelativeToolTip": "FileHandlingEx1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:52:06.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

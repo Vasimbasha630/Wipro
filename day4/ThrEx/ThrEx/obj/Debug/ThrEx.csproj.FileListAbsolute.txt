@@ -1,0 +1,7 @@
+C:\wipro\day4\ThrEx\ThrEx\obj\Debug\ThrEx.csproj.AssemblyReference.cache
+C:\wipro\day4\ThrEx\ThrEx\obj\Debug\ThrEx.csproj.CoreCompileInputs.cache
+C:\wipro\day4\ThrEx\ThrEx\bin\Debug\ThrEx.exe.config
+C:\wipro\day4\ThrEx\ThrEx\bin\Debug\ThrEx.exe
+C:\wipro\day4\ThrEx\ThrEx\bin\Debug\ThrEx.pdb
+C:\wipro\day4\ThrEx\ThrEx\obj\Debug\ThrEx.exe
+C:\wipro\day4\ThrEx\ThrEx\obj\Debug\ThrEx.pdb

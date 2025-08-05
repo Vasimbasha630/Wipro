@@ -1,0 +1,2 @@
+C:\wipro\Day8-Solid\SOLID Principle\SOLID Principle\obj\Debug\SOLID Principle.csproj.AssemblyReference.cache
+C:\wipro\Day8-Solid\SOLID Principle\SOLID Principle\obj\Debug\SOLID Principle.csproj.CoreCompileInputs.cache

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\day4\\AbstarctEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB29DE4-654C-4C60-8144-E1803D9CDF8A}|AbstarctEx\\AbstarctEx.csproj|c:\\wipro\\day4\\abstarctex\\abstarctex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB29DE4-654C-4C60-8144-E1803D9CDF8A}|AbstarctEx\\AbstarctEx.csproj|solutionrelative:abstarctex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB29DE4-654C-4C60-8144-E1803D9CDF8A}|AbstarctEx\\AbstarctEx.csproj|c:\\wipro\\day4\\abstarctex\\abstarctex\\vasim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB29DE4-654C-4C60-8144-E1803D9CDF8A}|AbstarctEx\\AbstarctEx.csproj|solutionrelative:abstarctex\\vasim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AbstarctEx||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB29DE4-654C-4C60-8144-E1803D9CDF8A}|AbstarctEx\\AbstarctEx.csproj|c:\\wipro\\day4\\abstarctex\\abstarctex\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB29DE4-654C-4C60-8144-E1803D9CDF8A}|AbstarctEx\\AbstarctEx.csproj|solutionrelative:abstarctex\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB29DE4-654C-4C60-8144-E1803D9CDF8A}|AbstarctEx\\AbstarctEx.csproj|c:\\wipro\\day4\\abstarctex\\abstarctex\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AbstarctEx",
+              "DocumentMoniker": "C:\\wipro\\day4\\AbstarctEx\\AbstarctEx\\AbstarctEx.csproj",
+              "RelativeDocumentMoniker": "AbstarctEx\\AbstarctEx.csproj",
+              "ToolTip": "C:\\wipro\\day4\\AbstarctEx\\AbstarctEx\\AbstarctEx.csproj",
+              "RelativeToolTip": "AbstarctEx\\AbstarctEx.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T06:08:45.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vasim.cs",
+              "DocumentMoniker": "C:\\wipro\\day4\\AbstarctEx\\AbstarctEx\\Vasim.cs",
+              "RelativeDocumentMoniker": "AbstarctEx\\Vasim.cs",
+              "ToolTip": "C:\\wipro\\day4\\AbstarctEx\\AbstarctEx\\Vasim.cs",
+              "RelativeToolTip": "AbstarctEx\\Vasim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:04:17.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\wipro\\day4\\AbstarctEx\\AbstarctEx\\Student.cs",
+              "RelativeDocumentMoniker": "AbstarctEx\\Student.cs",
+              "ToolTip": "C:\\wipro\\day4\\AbstarctEx\\AbstarctEx\\Student.cs",
+              "RelativeToolTip": "AbstarctEx\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:01:00.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\day4\\AbstarctEx\\AbstarctEx\\Program.cs",
+              "RelativeDocumentMoniker": "AbstarctEx\\Program.cs",
+              "ToolTip": "C:\\wipro\\day4\\AbstarctEx\\AbstarctEx\\Program.cs",
+              "RelativeToolTip": "AbstarctEx\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:00:40.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

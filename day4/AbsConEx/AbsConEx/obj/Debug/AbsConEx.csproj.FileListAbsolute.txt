@@ -1,0 +1,7 @@
+C:\wipro\day4\AbsConEx\AbsConEx\bin\Debug\AbsConEx.exe.config
+C:\wipro\day4\AbsConEx\AbsConEx\bin\Debug\AbsConEx.exe
+C:\wipro\day4\AbsConEx\AbsConEx\bin\Debug\AbsConEx.pdb
+C:\wipro\day4\AbsConEx\AbsConEx\obj\Debug\AbsConEx.csproj.AssemblyReference.cache
+C:\wipro\day4\AbsConEx\AbsConEx\obj\Debug\AbsConEx.csproj.CoreCompileInputs.cache
+C:\wipro\day4\AbsConEx\AbsConEx\obj\Debug\AbsConEx.exe
+C:\wipro\day4\AbsConEx\AbsConEx\obj\Debug\AbsConEx.pdb

@@ -1,0 +1,8 @@
+C:\wipro\day6\ReflectionEx\ReflectionEx\bin\Debug\ReflectionEx.exe.config
+C:\wipro\day6\ReflectionEx\ReflectionEx\bin\Debug\ReflectionEx.exe
+C:\wipro\day6\ReflectionEx\ReflectionEx\bin\Debug\ReflectionEx.pdb
+C:\wipro\day6\ReflectionEx\ReflectionEx\obj\Debug\ReflectionEx.csproj.AssemblyReference.cache
+C:\wipro\day6\ReflectionEx\ReflectionEx\obj\Debug\ReflectionEx.csproj.CoreCompileInputs.cache
+C:\wipro\day6\ReflectionEx\ReflectionEx\obj\Debug\ReflectionEx.exe
+C:\wipro\day6\ReflectionEx\ReflectionEx\obj\Debug\ReflectionEx.pdb
+C:\wipro\day6\ReflectionEx\ReflectionEx\obj\Debug\ReflectionEx.exe.config

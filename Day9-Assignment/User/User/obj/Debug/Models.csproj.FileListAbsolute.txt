@@ -1,0 +1,6 @@
+C:\wipro\Day9-Assignment\User\User\bin\Debug\User.dll
+C:\wipro\Day9-Assignment\User\User\bin\Debug\User.pdb
+C:\wipro\Day9-Assignment\User\User\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\wipro\Day9-Assignment\User\User\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\wipro\Day9-Assignment\User\User\obj\Debug\User.dll
+C:\wipro\Day9-Assignment\User\User\obj\Debug\User.pdb

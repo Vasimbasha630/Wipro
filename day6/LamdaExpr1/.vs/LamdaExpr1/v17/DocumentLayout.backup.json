@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\day6\\LamdaExpr1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74A6A5E5-39F1-45DF-BE1E-3B466FCB812E}|LamdaExpr1\\LamdaExpr1.csproj|c:\\wipro\\day6\\lamdaexpr1\\lamdaexpr1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A6A5E5-39F1-45DF-BE1E-3B466FCB812E}|LamdaExpr1\\LamdaExpr1.csproj|solutionrelative:lamdaexpr1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A6A5E5-39F1-45DF-BE1E-3B466FCB812E}|LamdaExpr1\\LamdaExpr1.csproj|c:\\wipro\\day6\\lamdaexpr1\\lamdaexpr1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A6A5E5-39F1-45DF-BE1E-3B466FCB812E}|LamdaExpr1\\LamdaExpr1.csproj|solutionrelative:lamdaexpr1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A6A5E5-39F1-45DF-BE1E-3B466FCB812E}|LamdaExpr1\\LamdaExpr1.csproj|c:\\wipro\\day6\\lamdaexpr1\\lamdaexpr1\\basiccomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A6A5E5-39F1-45DF-BE1E-3B466FCB812E}|LamdaExpr1\\LamdaExpr1.csproj|solutionrelative:lamdaexpr1\\basiccomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A6A5E5-39F1-45DF-BE1E-3B466FCB812E}|LamdaExpr1\\LamdaExpr1.csproj|c:\\wipro\\day6\\lamdaexpr1\\lamdaexpr1\\lambdaexpr1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A6A5E5-39F1-45DF-BE1E-3B466FCB812E}|LamdaExpr1\\LamdaExpr1.csproj|solutionrelative:lamdaexpr1\\lambdaexpr1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A6A5E5-39F1-45DF-BE1E-3B466FCB812E}|LamdaExpr1\\LamdaExpr1.csproj|c:\\wipro\\day6\\lamdaexpr1\\lamdaexpr1\\namecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A6A5E5-39F1-45DF-BE1E-3B466FCB812E}|LamdaExpr1\\LamdaExpr1.csproj|solutionrelative:lamdaexpr1\\namecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A6A5E5-39F1-45DF-BE1E-3B466FCB812E}|LamdaExpr1\\LamdaExpr1.csproj|c:\\wipro\\day6\\lamdaexpr1\\lamdaexpr1\\employeesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A6A5E5-39F1-45DF-BE1E-3B466FCB812E}|LamdaExpr1\\LamdaExpr1.csproj|solutionrelative:lamdaexpr1\\employeesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LamdaExpr1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A6A5E5-39F1-45DF-BE1E-3B466FCB812E}|LamdaExpr1\\LamdaExpr1.csproj|c:\\wipro\\day6\\lamdaexpr1\\lamdaexpr1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LamdaExpr1",
+              "DocumentMoniker": "C:\\wipro\\day6\\LamdaExpr1\\LamdaExpr1\\LamdaExpr1.csproj",
+              "RelativeDocumentMoniker": "LamdaExpr1\\LamdaExpr1.csproj",
+              "ToolTip": "C:\\wipro\\day6\\LamdaExpr1\\LamdaExpr1\\LamdaExpr1.csproj",
+              "RelativeToolTip": "LamdaExpr1\\LamdaExpr1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-28T11:43:21.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeSort.cs",
+              "DocumentMoniker": "C:\\wipro\\day6\\LamdaExpr1\\LamdaExpr1\\EmployeeSort.cs",
+              "RelativeDocumentMoniker": "LamdaExpr1\\EmployeeSort.cs",
+              "ToolTip": "C:\\wipro\\day6\\LamdaExpr1\\LamdaExpr1\\EmployeeSort.cs",
+              "RelativeToolTip": "LamdaExpr1\\EmployeeSort.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:37:49.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NameComparer.cs",
+              "DocumentMoniker": "C:\\wipro\\day6\\LamdaExpr1\\LamdaExpr1\\NameComparer.cs",
+              "RelativeDocumentMoniker": "LamdaExpr1\\NameComparer.cs",
+              "ToolTip": "C:\\wipro\\day6\\LamdaExpr1\\LamdaExpr1\\NameComparer.cs",
+              "RelativeToolTip": "LamdaExpr1\\NameComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:35:23.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LambdaExpr1.cs",
+              "DocumentMoniker": "C:\\wipro\\day6\\LamdaExpr1\\LamdaExpr1\\LambdaExpr1.cs",
+              "RelativeDocumentMoniker": "LamdaExpr1\\LambdaExpr1.cs",
+              "ToolTip": "C:\\wipro\\day6\\LamdaExpr1\\LamdaExpr1\\LambdaExpr1.cs",
+              "RelativeToolTip": "LamdaExpr1\\LambdaExpr1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:25:53.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasicComparer.cs",
+              "DocumentMoniker": "C:\\wipro\\day6\\LamdaExpr1\\LamdaExpr1\\BasicComparer.cs",
+              "RelativeDocumentMoniker": "LamdaExpr1\\BasicComparer.cs",
+              "ToolTip": "C:\\wipro\\day6\\LamdaExpr1\\LamdaExpr1\\BasicComparer.cs",
+              "RelativeToolTip": "LamdaExpr1\\BasicComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:18:53.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\wipro\\day6\\LamdaExpr1\\LamdaExpr1\\Employee.cs",
+              "RelativeDocumentMoniker": "LamdaExpr1\\Employee.cs",
+              "ToolTip": "C:\\wipro\\day6\\LamdaExpr1\\LamdaExpr1\\Employee.cs",
+              "RelativeToolTip": "LamdaExpr1\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:15:10.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\day6\\LamdaExpr1\\LamdaExpr1\\Program.cs",
+              "RelativeDocumentMoniker": "LamdaExpr1\\Program.cs",
+              "ToolTip": "C:\\wipro\\day6\\LamdaExpr1\\LamdaExpr1\\Program.cs",
+              "RelativeToolTip": "LamdaExpr1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:13:31.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

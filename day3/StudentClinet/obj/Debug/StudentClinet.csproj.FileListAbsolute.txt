@@ -1,0 +1,11 @@
+C:\wipro\day3\StudentClinet\bin\Debug\StudentClinet.exe.config
+C:\wipro\day3\StudentClinet\bin\Debug\StudentClinet.exe
+C:\wipro\day3\StudentClinet\bin\Debug\StudentClinet.pdb
+C:\wipro\day3\StudentClinet\bin\Debug\StudentDemo.dll
+C:\wipro\day3\StudentClinet\bin\Debug\StudentDemo.pdb
+C:\wipro\day3\StudentClinet\obj\Debug\StudentClinet.csproj.AssemblyReference.cache
+C:\wipro\day3\StudentClinet\obj\Debug\StudentClinet.csproj.CoreCompileInputs.cache
+C:\wipro\day3\StudentClinet\obj\Debug\StudentC.56ABA811.Up2Date
+C:\wipro\day3\StudentClinet\obj\Debug\StudentClinet.exe
+C:\wipro\day3\StudentClinet\obj\Debug\StudentClinet.pdb
+C:\wipro\day3\StudentClinet\obj\Debug\StudentClinet.exe.config

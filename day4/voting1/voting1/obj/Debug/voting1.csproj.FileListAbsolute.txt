@@ -1,0 +1,7 @@
+C:\wipro\day4\voting1\voting1\bin\Debug\voting1.exe.config
+C:\wipro\day4\voting1\voting1\bin\Debug\voting1.exe
+C:\wipro\day4\voting1\voting1\bin\Debug\voting1.pdb
+C:\wipro\day4\voting1\voting1\obj\Debug\voting1.csproj.AssemblyReference.cache
+C:\wipro\day4\voting1\voting1\obj\Debug\voting1.csproj.CoreCompileInputs.cache
+C:\wipro\day4\voting1\voting1\obj\Debug\voting1.exe
+C:\wipro\day4\voting1\voting1\obj\Debug\voting1.pdb

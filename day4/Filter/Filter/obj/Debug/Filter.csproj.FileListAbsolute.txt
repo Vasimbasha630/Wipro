@@ -1,0 +1,8 @@
+C:\wipro\day4\Filter\Filter\bin\Debug\Filter.exe.config
+C:\wipro\day4\Filter\Filter\bin\Debug\Filter.exe
+C:\wipro\day4\Filter\Filter\bin\Debug\Filter.pdb
+C:\wipro\day4\Filter\Filter\obj\Debug\Filter.csproj.AssemblyReference.cache
+C:\wipro\day4\Filter\Filter\obj\Debug\Filter.csproj.CoreCompileInputs.cache
+C:\wipro\day4\Filter\Filter\obj\Debug\Filter.exe
+C:\wipro\day4\Filter\Filter\obj\Debug\Filter.pdb
+C:\wipro\day4\Filter\Filter\obj\Debug\Filter.exe.config

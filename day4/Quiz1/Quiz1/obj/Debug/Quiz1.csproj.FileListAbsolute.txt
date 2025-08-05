@@ -1,0 +1,7 @@
+C:\wipro\day4\Quiz1\Quiz1\bin\Debug\Quiz1.exe.config
+C:\wipro\day4\Quiz1\Quiz1\bin\Debug\Quiz1.exe
+C:\wipro\day4\Quiz1\Quiz1\bin\Debug\Quiz1.pdb
+C:\wipro\day4\Quiz1\Quiz1\obj\Debug\Quiz1.csproj.AssemblyReference.cache
+C:\wipro\day4\Quiz1\Quiz1\obj\Debug\Quiz1.csproj.CoreCompileInputs.cache
+C:\wipro\day4\Quiz1\Quiz1\obj\Debug\Quiz1.exe
+C:\wipro\day4\Quiz1\Quiz1\obj\Debug\Quiz1.pdb

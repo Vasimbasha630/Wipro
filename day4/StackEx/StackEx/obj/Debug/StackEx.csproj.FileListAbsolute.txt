@@ -1,0 +1,8 @@
+C:\wipro\day4\StackEx\StackEx\bin\Debug\StackEx.exe.config
+C:\wipro\day4\StackEx\StackEx\bin\Debug\StackEx.exe
+C:\wipro\day4\StackEx\StackEx\bin\Debug\StackEx.pdb
+C:\wipro\day4\StackEx\StackEx\obj\Debug\StackEx.csproj.AssemblyReference.cache
+C:\wipro\day4\StackEx\StackEx\obj\Debug\StackEx.csproj.CoreCompileInputs.cache
+C:\wipro\day4\StackEx\StackEx\obj\Debug\StackEx.exe
+C:\wipro\day4\StackEx\StackEx\obj\Debug\StackEx.pdb
+C:\wipro\day4\StackEx\StackEx\obj\Debug\StackEx.exe.config

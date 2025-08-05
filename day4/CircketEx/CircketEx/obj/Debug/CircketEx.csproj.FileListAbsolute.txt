@@ -1,0 +1,8 @@
+C:\wipro\day4\CircketEx\CircketEx\bin\Debug\CircketEx.exe.config
+C:\wipro\day4\CircketEx\CircketEx\bin\Debug\CircketEx.exe
+C:\wipro\day4\CircketEx\CircketEx\bin\Debug\CircketEx.pdb
+C:\wipro\day4\CircketEx\CircketEx\obj\Debug\CircketEx.csproj.AssemblyReference.cache
+C:\wipro\day4\CircketEx\CircketEx\obj\Debug\CircketEx.csproj.CoreCompileInputs.cache
+C:\wipro\day4\CircketEx\CircketEx\obj\Debug\CircketEx.exe
+C:\wipro\day4\CircketEx\CircketEx\obj\Debug\CircketEx.pdb
+C:\wipro\day4\CircketEx\CircketEx\obj\Debug\CircketEx.exe.config

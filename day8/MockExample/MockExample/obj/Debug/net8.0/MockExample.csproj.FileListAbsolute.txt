@@ -1,0 +1,5 @@
+C:\wipro\day8\MockExample\MockExample\obj\Debug\net8.0\MockExample.csproj.AssemblyReference.cache
+C:\wipro\day8\MockExample\MockExample\obj\Debug\net8.0\MockExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\wipro\day8\MockExample\MockExample\obj\Debug\net8.0\MockExample.AssemblyInfoInputs.cache
+C:\wipro\day8\MockExample\MockExample\obj\Debug\net8.0\MockExample.AssemblyInfo.cs
+C:\wipro\day8\MockExample\MockExample\obj\Debug\net8.0\MockExample.csproj.CoreCompileInputs.cache

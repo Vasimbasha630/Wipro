@@ -1,0 +1,7 @@
+C:\wipro\day3\Program\bin\Debug\Program.exe.config
+C:\wipro\day3\Program\bin\Debug\Program.exe
+C:\wipro\day3\Program\bin\Debug\Program.pdb
+C:\wipro\day3\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\wipro\day3\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\wipro\day3\Program\obj\Debug\Program.exe
+C:\wipro\day3\Program\obj\Debug\Program.pdb

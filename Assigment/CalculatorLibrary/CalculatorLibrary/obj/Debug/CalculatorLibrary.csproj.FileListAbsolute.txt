@@ -1,0 +1,6 @@
+C:\wipro\Assigment\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+C:\wipro\Assigment\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+C:\wipro\Assigment\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.AssemblyReference.cache
+C:\wipro\Assigment\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\wipro\Assigment\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+C:\wipro\Assigment\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb

@@ -1,0 +1,7 @@
+C:\wipro\day6\LamdaExpr1\LamdaExpr1\obj\Debug\LamdaExpr1.csproj.AssemblyReference.cache
+C:\wipro\day6\LamdaExpr1\LamdaExpr1\obj\Debug\LamdaExpr1.csproj.CoreCompileInputs.cache
+C:\wipro\day6\LamdaExpr1\LamdaExpr1\bin\Debug\LamdaExpr1.exe.config
+C:\wipro\day6\LamdaExpr1\LamdaExpr1\bin\Debug\LamdaExpr1.exe
+C:\wipro\day6\LamdaExpr1\LamdaExpr1\bin\Debug\LamdaExpr1.pdb
+C:\wipro\day6\LamdaExpr1\LamdaExpr1\obj\Debug\LamdaExpr1.exe
+C:\wipro\day6\LamdaExpr1\LamdaExpr1\obj\Debug\LamdaExpr1.pdb

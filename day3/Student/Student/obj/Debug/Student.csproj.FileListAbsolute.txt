@@ -1,0 +1,6 @@
+C:\wipro\day3\Student\Student\bin\Debug\Student.dll
+C:\wipro\day3\Student\Student\bin\Debug\Student.pdb
+C:\wipro\day3\Student\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+C:\wipro\day3\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\wipro\day3\Student\Student\obj\Debug\Student.dll
+C:\wipro\day3\Student\Student\obj\Debug\Student.pdb

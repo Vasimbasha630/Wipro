@@ -1,0 +1,8 @@
+C:\wipro\day4\AbstarctEx\AbstarctEx\bin\Debug\AbstarctEx.exe.config
+C:\wipro\day4\AbstarctEx\AbstarctEx\bin\Debug\AbstarctEx.exe
+C:\wipro\day4\AbstarctEx\AbstarctEx\bin\Debug\AbstarctEx.pdb
+C:\wipro\day4\AbstarctEx\AbstarctEx\obj\Debug\AbstarctEx.csproj.AssemblyReference.cache
+C:\wipro\day4\AbstarctEx\AbstarctEx\obj\Debug\AbstarctEx.csproj.CoreCompileInputs.cache
+C:\wipro\day4\AbstarctEx\AbstarctEx\obj\Debug\AbstarctEx.exe
+C:\wipro\day4\AbstarctEx\AbstarctEx\obj\Debug\AbstarctEx.pdb
+C:\wipro\day4\AbstarctEx\AbstarctEx\obj\Debug\AbstarctEx.exe.config

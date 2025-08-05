@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\day10\\DipWith\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67FBBB-DA9C-41CC-B369-B8CA629D5656}|DipWith\\DipWith.csproj|c:\\wipro\\day10\\dipwith\\dipwith\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D67FBBB-DA9C-41CC-B369-B8CA629D5656}|DipWith\\DipWith.csproj|solutionrelative:dipwith\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67FBBB-DA9C-41CC-B369-B8CA629D5656}|DipWith\\DipWith.csproj|c:\\wipro\\day10\\dipwith\\dipwith\\dotnetinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D67FBBB-DA9C-41CC-B369-B8CA629D5656}|DipWith\\DipWith.csproj|solutionrelative:dipwith\\dotnetinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67FBBB-DA9C-41CC-B369-B8CA629D5656}|DipWith\\DipWith.csproj|c:\\wipro\\day10\\dipwith\\dipwith\\itrainerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D67FBBB-DA9C-41CC-B369-B8CA629D5656}|DipWith\\DipWith.csproj|solutionrelative:dipwith\\itrainerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67FBBB-DA9C-41CC-B369-B8CA629D5656}|DipWith\\DipWith.csproj|C:\\wipro\\day10\\DipWith\\dipwith\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D67FBBB-DA9C-41CC-B369-B8CA629D5656}|DipWith\\DipWith.csproj|solutionrelative:dipwith\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\wipro\\day10\\DipWith\\DipWith\\Class1.cs",
+              "RelativeDocumentMoniker": "DipWith\\Class1.cs",
+              "ToolTip": "C:\\wipro\\day10\\DipWith\\DipWith\\Class1.cs",
+              "RelativeToolTip": "DipWith\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:30:07.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DotnetInfo.cs",
+              "DocumentMoniker": "C:\\wipro\\day10\\DipWith\\DipWith\\DotnetInfo.cs",
+              "RelativeDocumentMoniker": "DipWith\\DotnetInfo.cs",
+              "ToolTip": "C:\\wipro\\day10\\DipWith\\DipWith\\DotnetInfo.cs",
+              "RelativeToolTip": "DipWith\\DotnetInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:26:45.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItrainerData.cs",
+              "DocumentMoniker": "C:\\wipro\\day10\\DipWith\\DipWith\\ItrainerData.cs",
+              "RelativeDocumentMoniker": "DipWith\\ItrainerData.cs",
+              "ToolTip": "C:\\wipro\\day10\\DipWith\\DipWith\\ItrainerData.cs",
+              "RelativeToolTip": "DipWith\\ItrainerData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:07:08.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\day10\\DipWith\\DipWith\\Program.cs",
+              "RelativeDocumentMoniker": "DipWith\\Program.cs",
+              "ToolTip": "C:\\wipro\\day10\\DipWith\\DipWith\\Program.cs",
+              "RelativeToolTip": "DipWith\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:00:49.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

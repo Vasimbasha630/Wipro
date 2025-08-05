@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\day9\\RazorProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F04A81-FFCE-418D-A67F-9EF3AF481D5E}|RazorProject\\RazorProject.csproj|c:\\wipro\\day9\\razorproject\\razorproject\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F04A81-FFCE-418D-A67F-9EF3AF481D5E}|RazorProject\\RazorProject.csproj|solutionrelative:razorproject\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F04A81-FFCE-418D-A67F-9EF3AF481D5E}|RazorProject\\RazorProject.csproj|c:\\wipro\\day9\\razorproject\\razorproject\\pages\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2F04A81-FFCE-418D-A67F-9EF3AF481D5E}|RazorProject\\RazorProject.csproj|solutionrelative:razorproject\\pages\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F04A81-FFCE-418D-A67F-9EF3AF481D5E}|RazorProject\\RazorProject.csproj|c:\\wipro\\day9\\razorproject\\razorproject\\pages\\employee\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F04A81-FFCE-418D-A67F-9EF3AF481D5E}|RazorProject\\RazorProject.csproj|solutionrelative:razorproject\\pages\\employee\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F04A81-FFCE-418D-A67F-9EF3AF481D5E}|RazorProject\\RazorProject.csproj|c:\\wipro\\day9\\razorproject\\razorproject\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2F04A81-FFCE-418D-A67F-9EF3AF481D5E}|RazorProject\\RazorProject.csproj|solutionrelative:razorproject\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F04A81-FFCE-418D-A67F-9EF3AF481D5E}|RazorProject\\RazorProject.csproj|c:\\wipro\\day9\\razorproject\\razorproject\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2F04A81-FFCE-418D-A67F-9EF3AF481D5E}|RazorProject\\RazorProject.csproj|solutionrelative:razorproject\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\wipro\\day9\\RazorProject\\RazorProject\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorProject\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\wipro\\day9\\RazorProject\\RazorProject\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorProject\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T10:38:06.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\wipro\\day9\\RazorProject\\RazorProject\\Pages\\Employee\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorProject\\Pages\\Employee\\Index.cshtml.cs",
+              "ToolTip": "C:\\wipro\\day9\\RazorProject\\RazorProject\\Pages\\Employee\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorProject\\Pages\\Employee\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:36:33.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\wipro\\day9\\RazorProject\\RazorProject\\Pages\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorProject\\Pages\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\wipro\\day9\\RazorProject\\RazorProject\\Pages\\Employee\\Index.cshtml",
+              "RelativeToolTip": "RazorProject\\Pages\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T10:36:17.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\wipro\\day9\\RazorProject\\RazorProject\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorProject\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\wipro\\day9\\RazorProject\\RazorProject\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorProject\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:22:18.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\wipro\\day9\\RazorProject\\RazorProject\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorProject\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\wipro\\day9\\RazorProject\\RazorProject\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorProject\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T10:20:14.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

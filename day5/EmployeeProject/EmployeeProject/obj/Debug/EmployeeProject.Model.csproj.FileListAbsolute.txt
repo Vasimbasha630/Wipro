@@ -1,0 +1,6 @@
+C:\wipro\day5\EmployeeProject\EmployeeProject\bin\Debug\EmployeeProject.dll
+C:\wipro\day5\EmployeeProject\EmployeeProject\bin\Debug\EmployeeProject.pdb
+C:\wipro\day5\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.Model.csproj.AssemblyReference.cache
+C:\wipro\day5\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.Model.csproj.CoreCompileInputs.cache
+C:\wipro\day5\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.dll
+C:\wipro\day5\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.pdb

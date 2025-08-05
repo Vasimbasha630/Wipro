@@ -1,0 +1,5 @@
+C:\wipro\Aug-2\Book\BookLirary.Tests\obj\Debug\net8.0\BookLirary.Tests.csproj.AssemblyReference.cache
+C:\wipro\Aug-2\Book\BookLirary.Tests\obj\Debug\net8.0\BookLirary.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\wipro\Aug-2\Book\BookLirary.Tests\obj\Debug\net8.0\BookLirary.Tests.AssemblyInfoInputs.cache
+C:\wipro\Aug-2\Book\BookLirary.Tests\obj\Debug\net8.0\BookLirary.Tests.AssemblyInfo.cs
+C:\wipro\Aug-2\Book\BookLirary.Tests\obj\Debug\net8.0\BookLirary.Tests.csproj.CoreCompileInputs.cache

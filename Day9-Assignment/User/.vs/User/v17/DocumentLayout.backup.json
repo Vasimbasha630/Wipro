@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\Day9-Assignment\\User\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2F7F5C-39FD-4764-951B-0061F9A70514}|..\\Tests\\Tests.csproj|c:\\wipro\\day9-assignment\\tests\\usertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2F7F5C-39FD-4764-951B-0061F9A70514}|..\\Tests\\Tests.csproj|c:\\wipro\\day9-assignment\\tests\\authenticationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CBFFEE-E1B7-4D9B-93AE-0434E5167296}|..\\Service\\Service.csproj|c:\\wipro\\day9-assignment\\service\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026DA74-25C7-4849-ACFB-88E1EBFAA61C}|User\\Models.csproj|c:\\wipro\\day9-assignment\\user\\user\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026DA74-25C7-4849-ACFB-88E1EBFAA61C}|User\\Models.csproj|solutionrelative:user\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2F7F5C-39FD-4764-951B-0061F9A70514}|..\\Tests\\Tests.csproj|c:\\wipro\\day9-assignment\\tests\\loggingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CBFFEE-E1B7-4D9B-93AE-0434E5167296}|..\\Service\\Service.csproj|c:\\wipro\\day9-assignment\\service\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2F7F5C-39FD-4764-951B-0061F9A70514}|..\\Tests\\Tests.csproj|c:\\wipro\\day9-assignment\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026DA74-25C7-4849-ACFB-88E1EBFAA61C}|User\\User.csproj|c:\\wipro\\day9-assignment\\user\\user\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026DA74-25C7-4849-ACFB-88E1EBFAA61C}|User\\User.csproj|solutionrelative:user\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2F7F5C-39FD-4764-951B-0061F9A70514}|..\\Tests\\Tests.csproj|c:\\wipro\\day9-assignment\\tests\\encryptionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CBFFEE-E1B7-4D9B-93AE-0434E5167296}|..\\Service\\Service.csproj|c:\\wipro\\day9-assignment\\service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CBFFEE-E1B7-4D9B-93AE-0434E5167296}|..\\Service\\Service.csproj|c:\\wipro\\day9-assignment\\service\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026DA74-25C7-4849-ACFB-88E1EBFAA61C}|User\\Models.csproj|c:\\wipro\\day9-assignment\\user\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026DA74-25C7-4849-ACFB-88E1EBFAA61C}|User\\Models.csproj|solutionrelative:user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationServiceTests.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9-Assignment\\Tests\\AuthenticationServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\AuthenticationServiceTests.cs",
+              "ToolTip": "C:\\wipro\\Day9-Assignment\\Tests\\AuthenticationServiceTests.cs",
+              "RelativeToolTip": "..\\Tests\\AuthenticationServiceTests.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:39:14.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoggingServiceTests.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9-Assignment\\Tests\\LoggingServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\LoggingServiceTests.cs",
+              "ToolTip": "C:\\wipro\\Day9-Assignment\\Tests\\LoggingServiceTests.cs",
+              "RelativeToolTip": "..\\Tests\\LoggingServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:20:56.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EncryptionServiceTests.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9-Assignment\\Tests\\EncryptionServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\EncryptionServiceTests.cs",
+              "ToolTip": "C:\\wipro\\Day9-Assignment\\Tests\\EncryptionServiceTests.cs",
+              "RelativeToolTip": "..\\Tests\\EncryptionServiceTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:19:54.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserTests.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9-Assignment\\Tests\\UserTests.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\UserTests.cs",
+              "ToolTip": "C:\\wipro\\Day9-Assignment\\Tests\\UserTests.cs",
+              "RelativeToolTip": "..\\Tests\\UserTests.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:17:54.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9-Assignment\\User\\User\\Class1.cs",
+              "RelativeDocumentMoniker": "User\\Class1.cs",
+              "ToolTip": "C:\\wipro\\Day9-Assignment\\User\\User\\Class1.cs",
+              "RelativeToolTip": "User\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T15:49:13.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9-Assignment\\Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\wipro\\Day9-Assignment\\Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:17:24.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9-Assignment\\Service\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "..\\Service\\EncryptionService.cs",
+              "ToolTip": "C:\\wipro\\Day9-Assignment\\Service\\EncryptionService.cs",
+              "RelativeToolTip": "..\\Service\\EncryptionService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T15:58:14.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9-Assignment\\Service\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "..\\Service\\AuthenticationService.cs",
+              "ToolTip": "C:\\wipro\\Day9-Assignment\\Service\\AuthenticationService.cs",
+              "RelativeToolTip": "..\\Service\\AuthenticationService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T15:56:45.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9-Assignment\\User\\User\\Program.cs",
+              "RelativeDocumentMoniker": "User\\Program.cs",
+              "ToolTip": "C:\\wipro\\Day9-Assignment\\User\\User\\Program.cs",
+              "RelativeToolTip": "User\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:25:00.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9-Assignment\\Service\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Service\\Class1.cs",
+              "ToolTip": "C:\\wipro\\Day9-Assignment\\Service\\Class1.cs",
+              "RelativeToolTip": "..\\Service\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T15:56:20.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9-Assignment\\User\\User\\User.cs",
+              "RelativeDocumentMoniker": "User\\User.cs",
+              "ToolTip": "C:\\wipro\\Day9-Assignment\\User\\User\\User.cs",
+              "RelativeToolTip": "User\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T15:53:13.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoggingService.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9-Assignment\\Service\\LoggingService.cs",
+              "RelativeDocumentMoniker": "..\\Service\\LoggingService.cs",
+              "ToolTip": "C:\\wipro\\Day9-Assignment\\Service\\LoggingService.cs",
+              "RelativeToolTip": "..\\Service\\LoggingService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:04:37.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

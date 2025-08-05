@@ -1,0 +1,7 @@
+C:\wipro\day4\StaticClassEx\StaticClassEx\bin\Debug\StaticClassEx.exe.config
+C:\wipro\day4\StaticClassEx\StaticClassEx\bin\Debug\StaticClassEx.exe
+C:\wipro\day4\StaticClassEx\StaticClassEx\bin\Debug\StaticClassEx.pdb
+C:\wipro\day4\StaticClassEx\StaticClassEx\obj\Debug\StaticClassEx.csproj.AssemblyReference.cache
+C:\wipro\day4\StaticClassEx\StaticClassEx\obj\Debug\StaticClassEx.csproj.CoreCompileInputs.cache
+C:\wipro\day4\StaticClassEx\StaticClassEx\obj\Debug\StaticClassEx.exe
+C:\wipro\day4\StaticClassEx\StaticClassEx\obj\Debug\StaticClassEx.pdb

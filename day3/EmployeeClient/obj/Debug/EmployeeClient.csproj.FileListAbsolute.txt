@@ -1,0 +1,11 @@
+C:\wipro\day3\EmployeeClient\bin\Debug\EmployeeClient.exe.config
+C:\wipro\day3\EmployeeClient\bin\Debug\EmployeeClient.exe
+C:\wipro\day3\EmployeeClient\bin\Debug\EmployeeClient.pdb
+C:\wipro\day3\EmployeeClient\obj\Debug\EmployeeClient.csproj.AssemblyReference.cache
+C:\wipro\day3\EmployeeClient\obj\Debug\EmployeeClient.csproj.CoreCompileInputs.cache
+C:\wipro\day3\EmployeeClient\obj\Debug\EmployeeClient.exe
+C:\wipro\day3\EmployeeClient\obj\Debug\EmployeeClient.pdb
+C:\wipro\day3\EmployeeClient\bin\Debug\Employee.dll
+C:\wipro\day3\EmployeeClient\bin\Debug\Employee.pdb
+C:\wipro\day3\EmployeeClient\obj\Debug\EmployeeClient.exe.config
+C:\wipro\day3\EmployeeClient\obj\Debug\Employee.28B74A1F.Up2Date

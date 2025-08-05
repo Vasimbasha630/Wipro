@@ -1,0 +1,9 @@
+C:\wipro\Day9-Assignment\Service\bin\Debug\Service.dll
+C:\wipro\Day9-Assignment\Service\bin\Debug\Service.pdb
+C:\wipro\Day9-Assignment\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\wipro\Day9-Assignment\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\wipro\Day9-Assignment\Service\obj\Debug\Service.dll
+C:\wipro\Day9-Assignment\Service\obj\Debug\Service.pdb
+C:\wipro\Day9-Assignment\Service\bin\Debug\NLog.dll
+C:\wipro\Day9-Assignment\Service\bin\Debug\NLog.xml
+C:\wipro\Day9-Assignment\Service\obj\Debug\Service.csproj.Up2Date

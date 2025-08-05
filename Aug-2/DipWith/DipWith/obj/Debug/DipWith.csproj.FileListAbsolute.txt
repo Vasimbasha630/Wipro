@@ -1,0 +1,8 @@
+C:\wipro\Aug-2\DipWith\DipWith\bin\Debug\DipWith.exe.config
+C:\wipro\Aug-2\DipWith\DipWith\bin\Debug\DipWith.exe
+C:\wipro\Aug-2\DipWith\DipWith\bin\Debug\DipWith.pdb
+C:\wipro\Aug-2\DipWith\DipWith\obj\Debug\DipWith.csproj.AssemblyReference.cache
+C:\wipro\Aug-2\DipWith\DipWith\obj\Debug\DipWith.csproj.CoreCompileInputs.cache
+C:\wipro\Aug-2\DipWith\DipWith\obj\Debug\DipWith.exe
+C:\wipro\Aug-2\DipWith\DipWith\obj\Debug\DipWith.pdb
+C:\wipro\Aug-2\DipWith\DipWith\obj\Debug\DipWith.exe.config

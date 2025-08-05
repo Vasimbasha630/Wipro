@@ -1,0 +1,7 @@
+C:\wipro\day4\MileStoneExam\MileStoneExam\bin\Debug\MileStoneExam.exe.config
+C:\wipro\day4\MileStoneExam\MileStoneExam\bin\Debug\MileStoneExam.exe
+C:\wipro\day4\MileStoneExam\MileStoneExam\bin\Debug\MileStoneExam.pdb
+C:\wipro\day4\MileStoneExam\MileStoneExam\obj\Debug\MileStoneExam.csproj.AssemblyReference.cache
+C:\wipro\day4\MileStoneExam\MileStoneExam\obj\Debug\MileStoneExam.csproj.CoreCompileInputs.cache
+C:\wipro\day4\MileStoneExam\MileStoneExam\obj\Debug\MileStoneExam.exe
+C:\wipro\day4\MileStoneExam\MileStoneExam\obj\Debug\MileStoneExam.pdb

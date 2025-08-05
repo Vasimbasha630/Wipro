@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\day5\\EmployeeProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4892A083-C9C7-4DB9-8E59-1FBE55576065}|..\\EmployeePoject.MainOne\\EmployeePoject.MainOne.csproj|c:\\wipro\\day5\\employeepoject.mainone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D1EC31-D6BF-485F-82DC-70B4015D6340}|..\\EmployeeProject.Bal\\EmployeeProject.Bal.csproj|c:\\wipro\\day5\\employeeproject.bal\\employeebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C09A3B-7A81-458D-BD18-91883CB25C00}|..\\EmployeeProject.Dao\\EmployeeProject.Dao.csproj|c:\\wipro\\day5\\employeeproject.dao\\employeedaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C09A3B-7A81-458D-BD18-91883CB25C00}|..\\EmployeeProject.Dao\\EmployeeProject.Dao.csproj|c:\\wipro\\day5\\employeeproject.dao\\employeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989BE371-65C7-4552-B907-544748D2D09B}|..\\EmployeeProject.Exception\\EmployeeProject.Exception.csproj|c:\\wipro\\day5\\employeeproject.exception\\employeeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53ED74A4-0BBA-4221-BD8C-8D96A87FFE91}|EmployeeProject\\EmployeeProject.Model.csproj|c:\\wipro\\day5\\employeeproject\\employeeproject\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53ED74A4-0BBA-4221-BD8C-8D96A87FFE91}|EmployeeProject\\EmployeeProject.Model.csproj|solutionrelative:employeeproject\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDao.cs",
+              "DocumentMoniker": "C:\\wipro\\day5\\EmployeeProject.Dao\\EmployeeDao.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeProject.Dao\\EmployeeDao.cs",
+              "ToolTip": "C:\\wipro\\day5\\EmployeeProject.Dao\\EmployeeDao.cs",
+              "RelativeToolTip": "..\\EmployeeProject.Dao\\EmployeeDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T04:13:18.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDaoImpl.cs",
+              "DocumentMoniker": "C:\\wipro\\day5\\EmployeeProject.Dao\\EmployeeDaoImpl.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeProject.Dao\\EmployeeDaoImpl.cs",
+              "ToolTip": "C:\\wipro\\day5\\EmployeeProject.Dao\\EmployeeDaoImpl.cs",
+              "RelativeToolTip": "..\\EmployeeProject.Dao\\EmployeeDaoImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T04:11:41.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeBal.cs",
+              "DocumentMoniker": "C:\\wipro\\day5\\EmployeeProject.Bal\\EmployeeBal.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeProject.Bal\\EmployeeBal.cs",
+              "ToolTip": "C:\\wipro\\day5\\EmployeeProject.Bal\\EmployeeBal.cs",
+              "RelativeToolTip": "..\\EmployeeProject.Bal\\EmployeeBal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T04:40:22.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\day5\\EmployeePoject.MainOne\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EmployeePoject.MainOne\\Program.cs",
+              "ToolTip": "C:\\wipro\\day5\\EmployeePoject.MainOne\\Program.cs",
+              "RelativeToolTip": "..\\EmployeePoject.MainOne\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:34:25.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\wipro\\day5\\EmployeeProject\\EmployeeProject\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeProject\\Employee.cs",
+              "ToolTip": "C:\\wipro\\day5\\EmployeeProject\\EmployeeProject\\Employee.cs",
+              "RelativeToolTip": "EmployeeProject\\Employee.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T03:34:25.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeException.cs",
+              "DocumentMoniker": "C:\\wipro\\day5\\EmployeeProject.Exception\\EmployeeException.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeProject.Exception\\EmployeeException.cs",
+              "ToolTip": "C:\\wipro\\day5\\EmployeeProject.Exception\\EmployeeException.cs",
+              "RelativeToolTip": "..\\EmployeeProject.Exception\\EmployeeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T04:08:44.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

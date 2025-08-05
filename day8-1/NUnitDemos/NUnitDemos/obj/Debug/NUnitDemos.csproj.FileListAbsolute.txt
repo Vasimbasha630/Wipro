@@ -1,0 +1,7 @@
+C:\wipro\day8-1\NUnitDemos\NUnitDemos\bin\Debug\NUnitDemos.exe.config
+C:\wipro\day8-1\NUnitDemos\NUnitDemos\bin\Debug\NUnitDemos.exe
+C:\wipro\day8-1\NUnitDemos\NUnitDemos\bin\Debug\NUnitDemos.pdb
+C:\wipro\day8-1\NUnitDemos\NUnitDemos\obj\Debug\NUnitDemos.csproj.AssemblyReference.cache
+C:\wipro\day8-1\NUnitDemos\NUnitDemos\obj\Debug\NUnitDemos.csproj.CoreCompileInputs.cache
+C:\wipro\day8-1\NUnitDemos\NUnitDemos\obj\Debug\NUnitDemos.exe
+C:\wipro\day8-1\NUnitDemos\NUnitDemos\obj\Debug\NUnitDemos.pdb

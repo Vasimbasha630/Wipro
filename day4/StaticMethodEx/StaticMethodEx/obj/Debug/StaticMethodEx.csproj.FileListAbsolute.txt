@@ -1,0 +1,8 @@
+C:\wipro\day4\StaticMethodEx\StaticMethodEx\bin\Debug\StaticMethodEx.exe.config
+C:\wipro\day4\StaticMethodEx\StaticMethodEx\bin\Debug\StaticMethodEx.exe
+C:\wipro\day4\StaticMethodEx\StaticMethodEx\bin\Debug\StaticMethodEx.pdb
+C:\wipro\day4\StaticMethodEx\StaticMethodEx\obj\Debug\StaticMethodEx.csproj.AssemblyReference.cache
+C:\wipro\day4\StaticMethodEx\StaticMethodEx\obj\Debug\StaticMethodEx.csproj.CoreCompileInputs.cache
+C:\wipro\day4\StaticMethodEx\StaticMethodEx\obj\Debug\StaticMethodEx.exe
+C:\wipro\day4\StaticMethodEx\StaticMethodEx\obj\Debug\StaticMethodEx.pdb
+C:\wipro\day4\StaticMethodEx\StaticMethodEx\obj\Debug\StaticMethodEx.exe.config

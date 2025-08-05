@@ -1,0 +1,7 @@
+C:\wipro\day4\AbstractionEx2\AbstractionEx2\bin\Debug\AbstractionEx2.exe.config
+C:\wipro\day4\AbstractionEx2\AbstractionEx2\bin\Debug\AbstractionEx2.exe
+C:\wipro\day4\AbstractionEx2\AbstractionEx2\bin\Debug\AbstractionEx2.pdb
+C:\wipro\day4\AbstractionEx2\AbstractionEx2\obj\Debug\AbstractionEx2.csproj.AssemblyReference.cache
+C:\wipro\day4\AbstractionEx2\AbstractionEx2\obj\Debug\AbstractionEx2.csproj.CoreCompileInputs.cache
+C:\wipro\day4\AbstractionEx2\AbstractionEx2\obj\Debug\AbstractionEx2.exe
+C:\wipro\day4\AbstractionEx2\AbstractionEx2\obj\Debug\AbstractionEx2.pdb
