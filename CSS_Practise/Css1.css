@@ -1,0 +1,21 @@
+p 
+{
+    color : blue;
+    color: red;
+}
+
+div 
+{
+    p
+    {
+        color: yellow;
+    }
+    span 
+    {
+        color : purple;
+    }
+    color: orange;    
+}
+.introduction{
+    color: red;
+}
