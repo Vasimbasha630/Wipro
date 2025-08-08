@@ -1,0 +1,8 @@
+C:\Users\owkba\Wipro\Daily_Practice\IntroductionToC#\IntroductionToC#\bin\Debug\IntroductionToC#.exe.config
+C:\Users\owkba\Wipro\Daily_Practice\IntroductionToC#\IntroductionToC#\bin\Debug\IntroductionToC#.exe
+C:\Users\owkba\Wipro\Daily_Practice\IntroductionToC#\IntroductionToC#\bin\Debug\IntroductionToC#.pdb
+C:\Users\owkba\Wipro\Daily_Practice\IntroductionToC#\IntroductionToC#\obj\Debug\IntroductionToCSharp.csproj.AssemblyReference.cache
+C:\Users\owkba\Wipro\Daily_Practice\IntroductionToC#\IntroductionToC#\obj\Debug\IntroductionToC#.exe.config
+C:\Users\owkba\Wipro\Daily_Practice\IntroductionToC#\IntroductionToC#\obj\Debug\IntroductionToCSharp.csproj.CoreCompileInputs.cache
+C:\Users\owkba\Wipro\Daily_Practice\IntroductionToC#\IntroductionToC#\obj\Debug\IntroductionToC#.exe
+C:\Users\owkba\Wipro\Daily_Practice\IntroductionToC#\IntroductionToC#\obj\Debug\IntroductionToC#.pdb
