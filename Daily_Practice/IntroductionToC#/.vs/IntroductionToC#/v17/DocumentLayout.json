@@ -3,50 +3,90 @@
   "WorkspaceRootPath": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|c:\\users\\owkba\\wipro\\daily_practice\\introductiontoc#\\introductiontoc#\\switchcontinuegoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\switchcontinuegoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|c:\\users\\owkba\\wipro\\daily_practice\\introductiontoc#\\introductiontoc#\\switchstatemnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\switchstatemnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|c:\\users\\owkba\\wipro\\daily_practice\\introductiontoc#\\introductiontoc#\\classdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\classdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|IntroductionToCSharp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|c:\\users\\owkba\\wipro\\daily_practice\\introductiontoc#\\introductiontoc#\\ifstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|c:\\users\\owkba\\wipro\\daily_practice\\introductiontoc#\\introductiontoc#\\namespace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\namespace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|c:\\users\\owkba\\wipro\\daily_practice\\introductiontoc#\\introductiontoc#\\parammethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\parammethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\introductiontoc#\\methodparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\methodparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\introductiontoc#\\outparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\outparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\introductiontoc#\\methodparam2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\methodparam2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\introductiontoc#\\dowhileloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\dowhileloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\introductiontoc#\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\introductiontoc#\\forandforeachdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\forandforeachdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\introductiontoc#\\loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\introductiontoc#\\ifstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\ifstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|c:\\users\\owkba\\wipro\\daily_practice\\introductiontoc#\\introductiontoc#\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\introductiontoc#\\switchcontinuegoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\switchcontinuegoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\introductiontoc#\\switchstatemnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\switchstatemnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\introductiontoc#\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|c:\\users\\owkba\\wipro\\daily_practice\\introductiontoc#\\introductiontoc#\\arraydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\introductiontoc#\\arraydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\arraydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|c:\\users\\owkba\\wipro\\daily_practice\\introductiontoc#\\introductiontoc#\\converstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\introductiontoc#\\converstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\converstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|c:\\users\\owkba\\wipro\\daily_practice\\introductiontoc#\\introductiontoc#\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\introductiontoc#\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|c:\\users\\owkba\\wipro\\daily_practice\\introductiontoc#\\introductiontoc#\\stringtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\introductiontoc#\\stringtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\stringtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|c:\\users\\owkba\\wipro\\daily_practice\\introductiontoc#\\introductiontoc#\\builtintypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\introductiontoc#\\builtintypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\builtintypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|c:\\users\\owkba\\wipro\\daily_practice\\introductiontoc#\\introductiontoc#\\readinputfromconsloe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\introductiontoc#\\readinputfromconsloe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\readinputfromconsloe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|c:\\users\\owkba\\wipro\\daily_practice\\introductiontoc#\\introductiontoc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\introductiontoc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{140B8045-9696-4847-A741-AC642E70D402}|IntroductionToC#\\IntroductionToCSharp.csproj|solutionrelative:introductiontoc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -69,45 +109,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SwitchContinuegoto.cs",
-              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\SwitchContinuegoto.cs",
-              "RelativeDocumentMoniker": "IntroductionToC#\\SwitchContinuegoto.cs",
-              "ToolTip": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\SwitchContinuegoto.cs",
-              "RelativeToolTip": "IntroductionToC#\\SwitchContinuegoto.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAUwCUAAAAJAAAAAAAAAA==",
+              "Title": "ClassDemo.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\ClassDemo.cs",
+              "RelativeDocumentMoniker": "IntroductionToC#\\ClassDemo.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\ClassDemo.cs",
+              "RelativeToolTip": "IntroductionToC#\\ClassDemo.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T16:55:31.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SwitchStatemnt.cs",
-              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\SwitchStatemnt.cs",
-              "RelativeDocumentMoniker": "IntroductionToC#\\SwitchStatemnt.cs",
-              "ToolTip": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\SwitchStatemnt.cs",
-              "RelativeToolTip": "IntroductionToC#\\SwitchStatemnt.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCsAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T16:43:16.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ifstatement.cs",
-              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\ifstatement.cs",
-              "RelativeDocumentMoniker": "IntroductionToC#\\ifstatement.cs",
-              "ToolTip": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\ifstatement.cs",
-              "RelativeToolTip": "IntroductionToC#\\ifstatement.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvxEAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T16:39:26.933Z",
+              "WhenOpened": "2025-08-11T15:49:46.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Namespace.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\Namespace.cs",
+              "RelativeDocumentMoniker": "IntroductionToC#\\Namespace.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\Namespace.cs",
+              "RelativeToolTip": "IntroductionToC#\\Namespace.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T14:47:44.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParamMethod.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\ParamMethod.cs",
+              "RelativeDocumentMoniker": "IntroductionToC#\\ParamMethod.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\ParamMethod.cs",
+              "RelativeToolTip": "IntroductionToC#\\ParamMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:51:25.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IntroductionToCSharp",
               "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\IntroductionToCSharp.csproj",
               "RelativeDocumentMoniker": "IntroductionToC#\\IntroductionToCSharp.csproj",
@@ -120,6 +160,126 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "MethodParameters.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\MethodParameters.cs",
+              "RelativeDocumentMoniker": "IntroductionToC#\\MethodParameters.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\MethodParameters.cs",
+              "RelativeToolTip": "IntroductionToC#\\MethodParameters.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:04:48.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "outParam.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\outParam.cs",
+              "RelativeDocumentMoniker": "IntroductionToC#\\outParam.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\outParam.cs",
+              "RelativeToolTip": "IntroductionToC#\\outParam.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:40:36.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MethodParam2.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\MethodParam2.cs",
+              "RelativeDocumentMoniker": "IntroductionToC#\\MethodParam2.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\MethodParam2.cs",
+              "RelativeToolTip": "IntroductionToC#\\MethodParam2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:27:03.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "doWhileLoop.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\doWhileLoop.cs",
+              "RelativeDocumentMoniker": "IntroductionToC#\\doWhileLoop.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\doWhileLoop.cs",
+              "RelativeToolTip": "IntroductionToC#\\doWhileLoop.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T06:05:23.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\Methods.cs",
+              "RelativeDocumentMoniker": "IntroductionToC#\\Methods.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\Methods.cs",
+              "RelativeToolTip": "IntroductionToC#\\Methods.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:33:02.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ifstatement.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\ifstatement.cs",
+              "RelativeDocumentMoniker": "IntroductionToC#\\ifstatement.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\ifstatement.cs",
+              "RelativeToolTip": "IntroductionToC#\\ifstatement.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:39:26.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "forandforeachdemo.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\forandforeachdemo.cs",
+              "RelativeDocumentMoniker": "IntroductionToC#\\forandforeachdemo.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\forandforeachdemo.cs",
+              "RelativeToolTip": "IntroductionToC#\\forandforeachdemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T15:52:48.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Loops.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\Loops.cs",
+              "RelativeDocumentMoniker": "IntroductionToC#\\Loops.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\Loops.cs",
+              "RelativeToolTip": "IntroductionToC#\\Loops.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T05:58:43.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SwitchContinuegoto.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\SwitchContinuegoto.cs",
+              "RelativeDocumentMoniker": "IntroductionToC#\\SwitchContinuegoto.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\SwitchContinuegoto.cs",
+              "RelativeToolTip": "IntroductionToC#\\SwitchContinuegoto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:55:31.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SwitchStatemnt.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\SwitchStatemnt.cs",
+              "RelativeDocumentMoniker": "IntroductionToC#\\SwitchStatemnt.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\SwitchStatemnt.cs",
+              "RelativeToolTip": "IntroductionToC#\\SwitchStatemnt.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:43:16.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "comments.cs",
               "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\comments.cs",
               "RelativeDocumentMoniker": "IntroductionToC#\\comments.cs",
@@ -127,12 +287,11 @@
               "RelativeToolTip": "IntroductionToC#\\comments.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T16:34:41.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T16:34:41.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "ArrayDemo.cs",
               "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\ArrayDemo.cs",
               "RelativeDocumentMoniker": "IntroductionToC#\\ArrayDemo.cs",
@@ -140,12 +299,11 @@
               "RelativeToolTip": "IntroductionToC#\\ArrayDemo.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAADwvxcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T16:27:25.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T16:27:25.337Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "Converstions.cs",
               "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\Converstions.cs",
               "RelativeDocumentMoniker": "IntroductionToC#\\Converstions.cs",
@@ -153,12 +311,11 @@
               "RelativeToolTip": "IntroductionToC#\\Converstions.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA0wBwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T16:18:19.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T16:18:19.026Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "Operators.cs",
               "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\Operators.cs",
               "RelativeDocumentMoniker": "IntroductionToC#\\Operators.cs",
@@ -166,12 +323,11 @@
               "RelativeToolTip": "IntroductionToC#\\Operators.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAmwBoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T16:09:07.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T16:09:07.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "StringTypes.cs",
               "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\StringTypes.cs",
               "RelativeDocumentMoniker": "IntroductionToC#\\StringTypes.cs",
@@ -179,12 +335,11 @@
               "RelativeToolTip": "IntroductionToC#\\StringTypes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T16:03:18.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T16:03:18.013Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "BuiltInTypes.cs",
               "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\BuiltInTypes.cs",
               "RelativeDocumentMoniker": "IntroductionToC#\\BuiltInTypes.cs",
@@ -192,12 +347,11 @@
               "RelativeToolTip": "IntroductionToC#\\BuiltInTypes.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA0wBAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T15:57:32.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T15:57:32.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "ReadInputFromConsloe.cs",
               "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\ReadInputFromConsloe.cs",
               "RelativeDocumentMoniker": "IntroductionToC#\\ReadInputFromConsloe.cs",
@@ -205,12 +359,11 @@
               "RelativeToolTip": "IntroductionToC#\\ReadInputFromConsloe.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T15:42:09.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T15:42:09.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\Program.cs",
               "RelativeDocumentMoniker": "IntroductionToC#\\Program.cs",
@@ -218,12 +371,11 @@
               "RelativeToolTip": "IntroductionToC#\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T15:44:05.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T15:44:05.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Daily_Practice\\IntroductionToC#\\IntroductionToC#\\Program.cs",
               "RelativeDocumentMoniker": "IntroductionToC#\\Program.cs",

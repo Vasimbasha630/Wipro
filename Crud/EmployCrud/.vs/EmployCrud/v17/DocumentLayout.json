@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\owkba\\Wipro\\Crud\\EmployCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2B222E-82DA-4342-8224-A6F61080E834}|EmployCrud\\EmployCrud.csproj|c:\\users\\owkba\\wipro\\crud\\employcrud\\employcrud\\middleware\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2B222E-82DA-4342-8224-A6F61080E834}|EmployCrud\\EmployCrud.csproj|solutionrelative:employcrud\\middleware\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2B222E-82DA-4342-8224-A6F61080E834}|EmployCrud\\EmployCrud.csproj|c:\\users\\owkba\\wipro\\crud\\employcrud\\employcrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2B222E-82DA-4342-8224-A6F61080E834}|EmployCrud\\EmployCrud.csproj|solutionrelative:employcrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2B222E-82DA-4342-8224-A6F61080E834}|EmployCrud\\EmployCrud.csproj|c:\\users\\owkba\\wipro\\crud\\employcrud\\employcrud\\employcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D2B222E-82DA-4342-8224-A6F61080E834}|EmployCrud\\EmployCrud.csproj|solutionrelative:employcrud\\employcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2B222E-82DA-4342-8224-A6F61080E834}|EmployCrud\\EmployCrud.csproj|c:\\users\\owkba\\wipro\\crud\\employcrud\\employcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D2B222E-82DA-4342-8224-A6F61080E834}|EmployCrud\\EmployCrud.csproj|solutionrelative:employcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2B222E-82DA-4342-8224-A6F61080E834}|EmployCrud\\EmployCrud.csproj|c:\\users\\owkba\\wipro\\crud\\employcrud\\employcrud\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2B222E-82DA-4342-8224-A6F61080E834}|EmployCrud\\EmployCrud.csproj|solutionrelative:employcrud\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2B222E-82DA-4342-8224-A6F61080E834}|EmployCrud\\EmployCrud.csproj|c:\\users\\owkba\\wipro\\crud\\employcrud\\employcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2B222E-82DA-4342-8224-A6F61080E834}|EmployCrud\\EmployCrud.csproj|solutionrelative:employcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2B222E-82DA-4342-8224-A6F61080E834}|EmployCrud\\EmployCrud.csproj|c:\\users\\owkba\\wipro\\crud\\employcrud\\employcrud\\employcrud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2D2B222E-82DA-4342-8224-A6F61080E834}|EmployCrud\\EmployCrud.csproj|solutionrelative:employcrud\\employcrud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2B222E-82DA-4342-8224-A6F61080E834}|EmployCrud\\EmployCrud.csproj|c:\\users\\owkba\\wipro\\crud\\employcrud\\employcrud\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2B222E-82DA-4342-8224-A6F61080E834}|EmployCrud\\EmployCrud.csproj|solutionrelative:employcrud\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SendMail.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Crud\\EmployCrud\\EmployCrud\\Middleware\\SendMail.cs",
+              "RelativeDocumentMoniker": "EmployCrud\\Middleware\\SendMail.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Crud\\EmployCrud\\EmployCrud\\Middleware\\SendMail.cs",
+              "RelativeToolTip": "EmployCrud\\Middleware\\SendMail.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:11:07.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployCrud",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Crud\\EmployCrud\\EmployCrud\\EmployCrud.csproj",
+              "RelativeDocumentMoniker": "EmployCrud\\EmployCrud.csproj",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Crud\\EmployCrud\\EmployCrud\\EmployCrud.csproj",
+              "RelativeToolTip": "EmployCrud\\EmployCrud.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T11:56:31.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployCrud.http",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Crud\\EmployCrud\\EmployCrud\\EmployCrud.http",
+              "RelativeDocumentMoniker": "EmployCrud\\EmployCrud.http",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Crud\\EmployCrud\\EmployCrud\\EmployCrud.http",
+              "RelativeToolTip": "EmployCrud\\EmployCrud.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-11T10:57:20.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmploysController.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Crud\\EmployCrud\\EmployCrud\\Controllers\\EmploysController.cs",
+              "RelativeDocumentMoniker": "EmployCrud\\Controllers\\EmploysController.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Crud\\EmployCrud\\EmployCrud\\Controllers\\EmploysController.cs",
+              "RelativeToolTip": "EmployCrud\\Controllers\\EmploysController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T10:37:12.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Crud\\EmployCrud\\EmployCrud\\Program.cs",
+              "RelativeDocumentMoniker": "EmployCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Crud\\EmployCrud\\EmployCrud\\Program.cs",
+              "RelativeToolTip": "EmployCrud\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T10:32:23.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Crud\\EmployCrud\\EmployCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Crud\\EmployCrud\\EmployCrud\\appsettings.json",
+              "RelativeToolTip": "EmployCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T10:30:22.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Crud\\EmployCrud\\EmployCrud\\Models\\Employ.cs",
+              "RelativeDocumentMoniker": "EmployCrud\\Models\\Employ.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Crud\\EmployCrud\\EmployCrud\\Models\\Employ.cs",
+              "RelativeToolTip": "EmployCrud\\Models\\Employ.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T10:27:39.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\Crud\\EmployCrud\\EmployCrud\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "EmployCrud\\Models\\EFCoreDbContext.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\Crud\\EmployCrud\\EmployCrud\\Models\\EFCoreDbContext.cs",
+              "RelativeToolTip": "EmployCrud\\Models\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T10:29:10.089Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
