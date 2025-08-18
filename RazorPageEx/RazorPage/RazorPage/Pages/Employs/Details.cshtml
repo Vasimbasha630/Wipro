@@ -1,0 +1,26 @@
+﻿@page "{id?}"
+@model RajorExamples.Pages.Employs.DetailsModel
+
+<div>
+    <h4>Employ</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Emp No</dt>
+        <dd class="col-sm-10">@Model.Employ.Empno</dd>
+        <dt class="col-sm-2">Name</dt>
+        <dd class="col-sm-10">@Model.Employ.Name</dd>
+        <dt class="col-sm-2">Gender</dt>
+        <dd class="col-sm-10">@Model.Employ.Gender</dd>
+        <dt class="col-sm-2">Dept</dt>
+        <dd class="col-sm-10">@Model.Employ.Dept</dd>
+        <dt class="col-sm-2">Designation</dt>
+        <dd class="col-sm-10">@Model.Employ.Desig</dd>
+        <dt class="col-sm-2">Basic</dt>
+        <dd class="col-sm-10">@Model.Employ.Basic</dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Employ.Empno" class="btn btn-primary">Edit</a>
+    <a asp-page="./Index" class="btn btn-secondary">Back to List</a>
+</div>

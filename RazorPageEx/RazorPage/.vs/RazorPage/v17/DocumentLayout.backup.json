@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|c:\\users\\owkba\\wipro\\razorpageex\\razorpage\\razorpage\\models\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\models\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|c:\\users\\owkba\\wipro\\razorpageex\\razorpage\\razorpage\\pages\\employs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\employs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|c:\\users\\owkba\\wipro\\razorpageex\\razorpage\\razorpage\\razorpage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\razorpage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|c:\\users\\owkba\\wipro\\razorpageex\\razorpage\\razorpage\\pages\\employs\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\employs\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|c:\\users\\owkba\\wipro\\razorpageex\\razorpage\\razorpage\\pages\\employs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\employs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|c:\\users\\owkba\\wipro\\razorpageex\\razorpage\\razorpage\\pages\\employs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\employs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|c:\\users\\owkba\\wipro\\razorpageex\\razorpage\\razorpage\\pages\\employs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\employs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|c:\\users\\owkba\\wipro\\razorpageex\\razorpage\\razorpage\\pages\\employs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\employs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|c:\\users\\owkba\\wipro\\razorpageex\\razorpage\\razorpage\\pages\\employs\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\employs\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|c:\\users\\owkba\\wipro\\razorpageex\\razorpage\\razorpage\\pages\\employs\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\employs\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|c:\\users\\owkba\\wipro\\razorpageex\\razorpage\\razorpage\\pages\\employs\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\employs\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|c:\\users\\owkba\\wipro\\razorpageex\\razorpage\\razorpage\\pages\\employs\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\employs\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|c:\\users\\owkba\\wipro\\razorpageex\\razorpage\\razorpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|c:\\users\\owkba\\wipro\\razorpageex\\razorpage\\razorpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|c:\\users\\owkba\\wipro\\razorpageex\\razorpage\\razorpage\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7C8C34-913B-4926-8D3E-839B509D891C}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Pages\\Employs\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Employs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Pages\\Employs\\Index.cshtml",
+              "RelativeToolTip": "RazorPage\\Pages\\Employs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T07:24:13.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Pages\\Employs\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Employs\\Create.cshtml",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Pages\\Employs\\Create.cshtml",
+              "RelativeToolTip": "RazorPage\\Pages\\Employs\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T07:10:54.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Pages\\Employs\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Employs\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Pages\\Employs\\Create.cshtml.cs",
+              "RelativeToolTip": "RazorPage\\Pages\\Employs\\Create.cshtml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:13:03.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employe.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Models\\Employe.cs",
+              "RelativeDocumentMoniker": "RazorPage\\Models\\Employe.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Models\\Employe.cs",
+              "RelativeToolTip": "RazorPage\\Models\\Employe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:03:46.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Pages\\Employs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Employs\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Pages\\Employs\\Delete.cshtml",
+              "RelativeToolTip": "RazorPage\\Pages\\Employs\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T07:17:33.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Pages\\Employs\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Employs\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Pages\\Employs\\Delete.cshtml.cs",
+              "RelativeToolTip": "RazorPage\\Pages\\Employs\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:18:58.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Pages\\Employs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Employs\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Pages\\Employs\\Edit.cshtml",
+              "RelativeToolTip": "RazorPage\\Pages\\Employs\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T07:22:44.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Pages\\Employs\\Details.cshtml",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Employs\\Details.cshtml",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Pages\\Employs\\Details.cshtml",
+              "RelativeToolTip": "RazorPage\\Pages\\Employs\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T07:21:04.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Pages\\Employs\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Employs\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Pages\\Employs\\Edit.cshtml.cs",
+              "RelativeToolTip": "RazorPage\\Pages\\Employs\\Edit.cshtml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowDEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:23:07.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RazorPage",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\RazorPage.csproj",
+              "RelativeDocumentMoniker": "RazorPage\\RazorPage.csproj",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\RazorPage.csproj",
+              "RelativeToolTip": "RazorPage\\RazorPage.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-18T07:02:21.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Pages\\Employs\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Employs\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Pages\\Employs\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorPage\\Pages\\Employs\\Index.cshtml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:24:27.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Pages\\Employs\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Employs\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Pages\\Employs\\Details.cshtml.cs",
+              "RelativeToolTip": "RazorPage\\Pages\\Employs\\Details.cshtml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:21:31.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Program.cs",
+              "RelativeDocumentMoniker": "RazorPage\\Program.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Program.cs",
+              "RelativeToolTip": "RazorPage\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:07:09.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\appsettings.json",
+              "RelativeDocumentMoniker": "RazorPage\\appsettings.json",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\appsettings.json",
+              "RelativeToolTip": "RazorPage\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T07:04:50.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "RazorPage\\Models\\EFCoreDbContext.cs",
+              "ToolTip": "C:\\Users\\owkba\\Wipro\\RazorPageEx\\RazorPage\\RazorPage\\Models\\EFCoreDbContext.cs",
+              "RelativeToolTip": "RazorPage\\Models\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:04:38.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
