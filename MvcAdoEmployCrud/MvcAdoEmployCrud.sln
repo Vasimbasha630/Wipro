@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcAdoEmployCrud", "MvcAdoEmployCrud\MvcAdoEmployCrud.csproj", "{BCB94C0E-DC79-4DF4-8F24-3ADFCDB6B4AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCB94C0E-DC79-4DF4-8F24-3ADFCDB6B4AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB94C0E-DC79-4DF4-8F24-3ADFCDB6B4AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB94C0E-DC79-4DF4-8F24-3ADFCDB6B4AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB94C0E-DC79-4DF4-8F24-3ADFCDB6B4AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD3CE835-6C14-4465-8F96-8C942FC5BE41}
+	EndGlobalSection
+EndGlobal
