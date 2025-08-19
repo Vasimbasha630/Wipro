@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MvCDemoCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\views\\employ\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\views\\employ\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\views\\employ\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\views\\employ\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\views\\employ\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\views\\employ\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\views\\employ\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\views\\employ\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\views\\details\\module3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\views\\details\\module3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\views\\details\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\views\\details\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\views\\details\\module2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\views\\details\\module2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\models\\employservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\models\\employservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\controllers\\employcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\controllers\\employcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\controllers\\detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\controllers\\detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\views\\test\\lunchtime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\views\\test\\lunchtime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\views\\test\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\views\\test\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\views\\employ\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\views\\employ\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|d:\\mvcdemocore\\mvcdemocore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22A46A77-0FA3-4CF9-94FD-FB356122A68A}|MvCDemoCore\\MvCDemoCore.csproj|solutionrelative:mvcdemocore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Module3.cshtml",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Details\\Module3.cshtml",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Views\\Details\\Module3.cshtml",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Details\\Module3.cshtml",
+              "RelativeToolTip": "MvCDemoCore\\Views\\Details\\Module3.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:11:38.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Employ\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Views\\Employ\\Create.cshtml",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Employ\\Create.cshtml",
+              "RelativeToolTip": "MvCDemoCore\\Views\\Employ\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:12:19.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Employ\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Views\\Employ\\Edit.cshtml",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Employ\\Edit.cshtml",
+              "RelativeToolTip": "MvCDemoCore\\Views\\Employ\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:17:32.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Employ\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Views\\Employ\\Index.cshtml",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Employ\\Index.cshtml",
+              "RelativeToolTip": "MvCDemoCore\\Views\\Employ\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:18:08.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Employ\\Search.cshtml",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Views\\Employ\\Search.cshtml",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Employ\\Search.cshtml",
+              "RelativeToolTip": "MvCDemoCore\\Views\\Employ\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:27:17.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Details\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Views\\Details\\Index.cshtml",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Details\\Index.cshtml",
+              "RelativeToolTip": "MvCDemoCore\\Views\\Details\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:10:06.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Module2.cshtml",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Details\\Module2.cshtml",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Views\\Details\\Module2.cshtml",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Details\\Module2.cshtml",
+              "RelativeToolTip": "MvCDemoCore\\Views\\Details\\Module2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:10:53.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MvCDemoCore\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:39:01.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployService.cs",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Models\\EmployService.cs",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Models\\EmployService.cs",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Models\\EmployService.cs",
+              "RelativeToolTip": "MvCDemoCore\\Models\\EmployService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:06:44.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Models\\Employ.cs",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Models\\Employ.cs",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Models\\Employ.cs",
+              "RelativeToolTip": "MvCDemoCore\\Models\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:06:08.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvCDemoCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:52:58.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Controllers\\TestController.cs",
+              "RelativeToolTip": "MvCDemoCore\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:38:34.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployController.cs",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Controllers\\EmployController.cs",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Controllers\\EmployController.cs",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Controllers\\EmployController.cs",
+              "RelativeToolTip": "MvCDemoCore\\Controllers\\EmployController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:37:54.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DetailsController.cs",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Controllers\\DetailsController.cs",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Controllers\\DetailsController.cs",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Controllers\\DetailsController.cs",
+              "RelativeToolTip": "MvCDemoCore\\Controllers\\DetailsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:37:18.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Controllers\\DemoController.cs",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "MvCDemoCore\\Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:36:46.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Program.cs",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Program.cs",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Program.cs",
+              "RelativeToolTip": "MvCDemoCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:58:06.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MvCDemoCore\\appsettings.Development.json",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\appsettings.Development.json",
+              "RelativeToolTip": "MvCDemoCore\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T07:57:38.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\appsettings.json",
+              "RelativeDocumentMoniker": "MvCDemoCore\\appsettings.json",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\appsettings.json",
+              "RelativeToolTip": "MvCDemoCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T07:57:19.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Course.cshtml",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Test\\Course.cshtml",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Views\\Test\\Course.cshtml",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Test\\Course.cshtml",
+              "RelativeToolTip": "MvCDemoCore\\Views\\Test\\Course.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:28:35.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Views\\Test\\Index.cshtml",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Test\\Index.cshtml",
+              "RelativeToolTip": "MvCDemoCore\\Views\\Test\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:29:27.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LunchTime.cshtml",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Test\\LunchTime.cshtml",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Views\\Test\\LunchTime.cshtml",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Test\\LunchTime.cshtml",
+              "RelativeToolTip": "MvCDemoCore\\Views\\Test\\LunchTime.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:30:11.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Employ\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Views\\Employ\\Delete.cshtml",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Employ\\Delete.cshtml",
+              "RelativeToolTip": "MvCDemoCore\\Views\\Employ\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:14:48.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvCDemoCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\MvCDemoCore\\MvCDemoCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvCDemoCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:28:01.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

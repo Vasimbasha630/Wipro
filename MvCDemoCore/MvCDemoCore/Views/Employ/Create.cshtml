@@ -1,0 +1,51 @@
+﻿@model MvcDemoCore.Models.Employ
+
+@{
+    ViewData["Title"] = "Create Employ";
+}
+
+<h2>Create Employ</h2>
+
+<form asp-action="Create" method="post" class="form-horizontal">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="Empno" class="control-label col-md-2"></label>
+        <div class="col-md-10">
+            <input asp-for="Empno" class="form-control" />
+            <span asp-validation-for="Empno" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Name" class="control-label col-md-2"></label>
+        <div class="col-md-10">
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Basic" class="control-label col-md-2"></label>
+        <div class="col-md-10">
+            <input asp-for="Basic" class="form-control" />
+            <span asp-validation-for="Basic" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <button type="submit" class="btn btn-primary">Create</button>
+        </div>
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
