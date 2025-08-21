@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro\\jwtEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7FDE9C-E059-4C99-9A8F-CEC061222A5E}|jwtEx\\jwtEx.csproj|d:\\wipro\\jwtex\\jwtex\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF7FDE9C-E059-4C99-9A8F-CEC061222A5E}|jwtEx\\jwtEx.csproj|solutionrelative:jwtex\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7FDE9C-E059-4C99-9A8F-CEC061222A5E}|jwtEx\\jwtEx.csproj|d:\\wipro\\jwtex\\jwtex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7FDE9C-E059-4C99-9A8F-CEC061222A5E}|jwtEx\\jwtEx.csproj|solutionrelative:jwtex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7FDE9C-E059-4C99-9A8F-CEC061222A5E}|jwtEx\\jwtEx.csproj|d:\\wipro\\jwtex\\jwtex\\controllers\\someprotectedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7FDE9C-E059-4C99-9A8F-CEC061222A5E}|jwtEx\\jwtEx.csproj|solutionrelative:jwtex\\controllers\\someprotectedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7FDE9C-E059-4C99-9A8F-CEC061222A5E}|jwtEx\\jwtEx.csproj|d:\\wipro\\jwtex\\jwtex\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7FDE9C-E059-4C99-9A8F-CEC061222A5E}|jwtEx\\jwtEx.csproj|solutionrelative:jwtex\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7FDE9C-E059-4C99-9A8F-CEC061222A5E}|jwtEx\\jwtEx.csproj|d:\\wipro\\jwtex\\jwtex\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7FDE9C-E059-4C99-9A8F-CEC061222A5E}|jwtEx\\jwtEx.csproj|solutionrelative:jwtex\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7FDE9C-E059-4C99-9A8F-CEC061222A5E}|jwtEx\\jwtEx.csproj|d:\\wipro\\jwtex\\jwtex\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7FDE9C-E059-4C99-9A8F-CEC061222A5E}|jwtEx\\jwtEx.csproj|solutionrelative:jwtex\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7FDE9C-E059-4C99-9A8F-CEC061222A5E}|jwtEx\\jwtEx.csproj|d:\\wipro\\jwtex\\jwtex\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7FDE9C-E059-4C99-9A8F-CEC061222A5E}|jwtEx\\jwtEx.csproj|solutionrelative:jwtex\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7FDE9C-E059-4C99-9A8F-CEC061222A5E}|jwtEx\\jwtEx.csproj|d:\\wipro\\jwtex\\jwtex\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7FDE9C-E059-4C99-9A8F-CEC061222A5E}|jwtEx\\jwtEx.csproj|solutionrelative:jwtex\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7FDE9C-E059-4C99-9A8F-CEC061222A5E}|jwtEx\\jwtEx.csproj|d:\\wipro\\jwtex\\jwtex\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7FDE9C-E059-4C99-9A8F-CEC061222A5E}|jwtEx\\jwtEx.csproj|solutionrelative:jwtex\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7FDE9C-E059-4C99-9A8F-CEC061222A5E}|jwtEx\\jwtEx.csproj|d:\\wipro\\jwtex\\jwtex\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7FDE9C-E059-4C99-9A8F-CEC061222A5E}|jwtEx\\jwtEx.csproj|solutionrelative:jwtex\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro\\jwtEx\\jwtEx\\appsettings.json",
+              "RelativeDocumentMoniker": "jwtEx\\appsettings.json",
+              "ToolTip": "D:\\Wipro\\jwtEx\\jwtEx\\appsettings.json",
+              "RelativeToolTip": "jwtEx\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-20T06:49:32.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro\\jwtEx\\jwtEx\\Program.cs",
+              "RelativeDocumentMoniker": "jwtEx\\Program.cs",
+              "ToolTip": "D:\\Wipro\\jwtEx\\jwtEx\\Program.cs",
+              "RelativeToolTip": "jwtEx\\Program.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAcwIMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:49:02.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SomeProtectedController.cs",
+              "DocumentMoniker": "D:\\Wipro\\jwtEx\\jwtEx\\Controllers\\SomeProtectedController.cs",
+              "RelativeDocumentMoniker": "jwtEx\\Controllers\\SomeProtectedController.cs",
+              "ToolTip": "D:\\Wipro\\jwtEx\\jwtEx\\Controllers\\SomeProtectedController.cs",
+              "RelativeToolTip": "jwtEx\\Controllers\\SomeProtectedController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:47:50.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Wipro\\jwtEx\\jwtEx\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "jwtEx\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Wipro\\jwtEx\\jwtEx\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "jwtEx\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:47:01.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Wipro\\jwtEx\\jwtEx\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "jwtEx\\Models\\LoginRequest.cs",
+              "ToolTip": "D:\\Wipro\\jwtEx\\jwtEx\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "jwtEx\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:45:54.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Wipro\\jwtEx\\jwtEx\\Models\\AuthService.cs",
+              "RelativeDocumentMoniker": "jwtEx\\Models\\AuthService.cs",
+              "ToolTip": "D:\\Wipro\\jwtEx\\jwtEx\\Models\\AuthService.cs",
+              "RelativeToolTip": "jwtEx\\Models\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:44:09.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Wipro\\jwtEx\\jwtEx\\Models\\IAuthService.cs",
+              "RelativeDocumentMoniker": "jwtEx\\Models\\IAuthService.cs",
+              "ToolTip": "D:\\Wipro\\jwtEx\\jwtEx\\Models\\IAuthService.cs",
+              "RelativeToolTip": "jwtEx\\Models\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:43:20.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\Wipro\\jwtEx\\jwtEx\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "jwtEx\\Models\\JwtSettings.cs",
+              "ToolTip": "D:\\Wipro\\jwtEx\\jwtEx\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "jwtEx\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:42:17.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Wipro\\jwtEx\\jwtEx\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "jwtEx\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\Wipro\\jwtEx\\jwtEx\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "jwtEx\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:28:03.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Wipro\\jwtEx\\jwtEx\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "jwtEx\\Models\\Users.cs",
+              "ToolTip": "D:\\Wipro\\jwtEx\\jwtEx\\Models\\Users.cs",
+              "RelativeToolTip": "jwtEx\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:26:58.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
