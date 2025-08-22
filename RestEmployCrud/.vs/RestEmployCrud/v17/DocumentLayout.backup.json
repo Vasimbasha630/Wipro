@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro\\RestEmployCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB2DDE-B2BE-44E1-8840-AB4F102F3503}|RestEmployCrud\\RestEmployCrud.csproj|d:\\wipro\\restemploycrud\\restemploycrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3FB2DDE-B2BE-44E1-8840-AB4F102F3503}|RestEmployCrud\\RestEmployCrud.csproj|solutionrelative:restemploycrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB2DDE-B2BE-44E1-8840-AB4F102F3503}|RestEmployCrud\\RestEmployCrud.csproj|d:\\wipro\\restemploycrud\\restemploycrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB2DDE-B2BE-44E1-8840-AB4F102F3503}|RestEmployCrud\\RestEmployCrud.csproj|solutionrelative:restemploycrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB2DDE-B2BE-44E1-8840-AB4F102F3503}|RestEmployCrud\\RestEmployCrud.csproj|d:\\wipro\\restemploycrud\\restemploycrud\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB2DDE-B2BE-44E1-8840-AB4F102F3503}|RestEmployCrud\\RestEmployCrud.csproj|solutionrelative:restemploycrud\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB2DDE-B2BE-44E1-8840-AB4F102F3503}|RestEmployCrud\\RestEmployCrud.csproj|d:\\wipro\\restemploycrud\\restemploycrud\\models\\employdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB2DDE-B2BE-44E1-8840-AB4F102F3503}|RestEmployCrud\\RestEmployCrud.csproj|solutionrelative:restemploycrud\\models\\employdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB2DDE-B2BE-44E1-8840-AB4F102F3503}|RestEmployCrud\\RestEmployCrud.csproj|d:\\wipro\\restemploycrud\\restemploycrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB2DDE-B2BE-44E1-8840-AB4F102F3503}|RestEmployCrud\\RestEmployCrud.csproj|solutionrelative:restemploycrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB2DDE-B2BE-44E1-8840-AB4F102F3503}|RestEmployCrud\\RestEmployCrud.csproj|d:\\wipro\\restemploycrud\\restemploycrud\\controllers\\employsnewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB2DDE-B2BE-44E1-8840-AB4F102F3503}|RestEmployCrud\\RestEmployCrud.csproj|solutionrelative:restemploycrud\\controllers\\employsnewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB2DDE-B2BE-44E1-8840-AB4F102F3503}|RestEmployCrud\\RestEmployCrud.csproj|d:\\wipro\\restemploycrud\\restemploycrud\\controllers\\restemploycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB2DDE-B2BE-44E1-8840-AB4F102F3503}|RestEmployCrud\\RestEmployCrud.csproj|solutionrelative:restemploycrud\\controllers\\restemploycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB2DDE-B2BE-44E1-8840-AB4F102F3503}|RestEmployCrud\\RestEmployCrud.csproj|d:\\wipro\\restemploycrud\\restemploycrud\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB2DDE-B2BE-44E1-8840-AB4F102F3503}|RestEmployCrud\\RestEmployCrud.csproj|solutionrelative:restemploycrud\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB2DDE-B2BE-44E1-8840-AB4F102F3503}|RestEmployCrud\\RestEmployCrud.csproj|d:\\wipro\\restemploycrud\\restemploycrud\\services\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB2DDE-B2BE-44E1-8840-AB4F102F3503}|RestEmployCrud\\RestEmployCrud.csproj|solutionrelative:restemploycrud\\services\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB2DDE-B2BE-44E1-8840-AB4F102F3503}|RestEmployCrud\\RestEmployCrud.csproj|d:\\wipro\\restemploycrud\\restemploycrud\\restemploycrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3FB2DDE-B2BE-44E1-8840-AB4F102F3503}|RestEmployCrud\\RestEmployCrud.csproj|solutionrelative:restemploycrud\\restemploycrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro\\RestEmployCrud\\RestEmployCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "RestEmployCrud\\appsettings.json",
+              "ToolTip": "D:\\Wipro\\RestEmployCrud\\RestEmployCrud\\appsettings.json",
+              "RelativeToolTip": "RestEmployCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T09:44:29.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro\\RestEmployCrud\\RestEmployCrud\\Program.cs",
+              "RelativeDocumentMoniker": "RestEmployCrud\\Program.cs",
+              "ToolTip": "D:\\Wipro\\RestEmployCrud\\RestEmployCrud\\Program.cs",
+              "RelativeToolTip": "RestEmployCrud\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:44:13.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmploysController.cs",
+              "DocumentMoniker": "D:\\Wipro\\RestEmployCrud\\RestEmployCrud\\Controllers\\EmploysController.cs",
+              "RelativeDocumentMoniker": "RestEmployCrud\\Controllers\\EmploysController.cs",
+              "ToolTip": "D:\\Wipro\\RestEmployCrud\\RestEmployCrud\\Controllers\\EmploysController.cs",
+              "RelativeToolTip": "RestEmployCrud\\Controllers\\EmploysController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAmwGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:39:29.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployDbContext.cs",
+              "DocumentMoniker": "D:\\Wipro\\RestEmployCrud\\RestEmployCrud\\Models\\EmployDbContext.cs",
+              "RelativeDocumentMoniker": "RestEmployCrud\\Models\\EmployDbContext.cs",
+              "ToolTip": "D:\\Wipro\\RestEmployCrud\\RestEmployCrud\\Models\\EmployDbContext.cs",
+              "RelativeToolTip": "RestEmployCrud\\Models\\EmployDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:35:07.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "D:\\Wipro\\RestEmployCrud\\RestEmployCrud\\Models\\Employ.cs",
+              "RelativeDocumentMoniker": "RestEmployCrud\\Models\\Employ.cs",
+              "ToolTip": "D:\\Wipro\\RestEmployCrud\\RestEmployCrud\\Models\\Employ.cs",
+              "RelativeToolTip": "RestEmployCrud\\Models\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:34:34.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmploysNewController.cs",
+              "DocumentMoniker": "D:\\Wipro\\RestEmployCrud\\RestEmployCrud\\Controllers\\EmploysNewController.cs",
+              "RelativeDocumentMoniker": "RestEmployCrud\\Controllers\\EmploysNewController.cs",
+              "ToolTip": "D:\\Wipro\\RestEmployCrud\\RestEmployCrud\\Controllers\\EmploysNewController.cs",
+              "RelativeToolTip": "RestEmployCrud\\Controllers\\EmploysNewController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:40:13.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestEmployController.cs",
+              "DocumentMoniker": "D:\\Wipro\\RestEmployCrud\\RestEmployCrud\\Controllers\\RestEmployController.cs",
+              "RelativeDocumentMoniker": "RestEmployCrud\\Controllers\\RestEmployController.cs",
+              "ToolTip": "D:\\Wipro\\RestEmployCrud\\RestEmployCrud\\Controllers\\RestEmployController.cs",
+              "RelativeToolTip": "RestEmployCrud\\Controllers\\RestEmployController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:40:55.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "D:\\Wipro\\RestEmployCrud\\RestEmployCrud\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "RestEmployCrud\\Services\\ApiService.cs",
+              "ToolTip": "D:\\Wipro\\RestEmployCrud\\RestEmployCrud\\Services\\ApiService.cs",
+              "RelativeToolTip": "RestEmployCrud\\Services\\ApiService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:43:34.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IApiService.cs",
+              "DocumentMoniker": "D:\\Wipro\\RestEmployCrud\\RestEmployCrud\\Services\\IApiService.cs",
+              "RelativeDocumentMoniker": "RestEmployCrud\\Services\\IApiService.cs",
+              "ToolTip": "D:\\Wipro\\RestEmployCrud\\RestEmployCrud\\Services\\IApiService.cs",
+              "RelativeToolTip": "RestEmployCrud\\Services\\IApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:43:00.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RestEmployCrud.csproj",
+              "DocumentMoniker": "D:\\Wipro\\RestEmployCrud\\RestEmployCrud\\RestEmployCrud.csproj",
+              "RelativeDocumentMoniker": "RestEmployCrud\\RestEmployCrud.csproj",
+              "ToolTip": "D:\\Wipro\\RestEmployCrud\\RestEmployCrud\\RestEmployCrud.csproj",
+              "RelativeToolTip": "RestEmployCrud\\RestEmployCrud.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-21T09:35:51.712Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
