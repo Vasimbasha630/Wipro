@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|d:\\wipro\\car_rental (1)\\aug_25_car_rental_core\\aug_25_car_rental_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|solutionrelative:aug_25_car_rental_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|d:\\wipro\\car_rental (1)\\aug_25_car_rental_core\\aug_25_car_rental_core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|solutionrelative:aug_25_car_rental_core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|d:\\wipro\\car_rental (1)\\aug_25_car_rental_core\\aug_25_car_rental_core\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|solutionrelative:aug_25_car_rental_core\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|d:\\wipro\\car_rental (1)\\aug_25_car_rental_core\\aug_25_car_rental_core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|solutionrelative:aug_25_car_rental_core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|d:\\wipro\\car_rental (1)\\aug_25_car_rental_core\\aug_25_car_rental_core\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|solutionrelative:aug_25_car_rental_core\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|d:\\wipro\\car_rental (1)\\aug_25_car_rental_core\\aug_25_car_rental_core\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|solutionrelative:aug_25_car_rental_core\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|d:\\wipro\\car_rental (1)\\aug_25_car_rental_core\\aug_25_car_rental_core\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|solutionrelative:aug_25_car_rental_core\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|d:\\wipro\\car_rental (1)\\aug_25_car_rental_core\\aug_25_car_rental_core\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|solutionrelative:aug_25_car_rental_core\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|d:\\wipro\\car_rental (1)\\aug_25_car_rental_core\\aug_25_car_rental_core\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|solutionrelative:aug_25_car_rental_core\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|d:\\wipro\\car_rental (1)\\aug_25_car_rental_core\\aug_25_car_rental_core\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|solutionrelative:aug_25_car_rental_core\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|d:\\wipro\\car_rental (1)\\aug_25_car_rental_core\\aug_25_car_rental_core\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|solutionrelative:aug_25_car_rental_core\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|d:\\wipro\\car_rental (1)\\aug_25_car_rental_core\\aug_25_car_rental_core\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|solutionrelative:aug_25_car_rental_core\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|d:\\wipro\\car_rental (1)\\aug_25_car_rental_core\\aug_25_car_rental_core\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|solutionrelative:aug_25_car_rental_core\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|d:\\wipro\\car_rental (1)\\aug_25_car_rental_core\\aug_25_car_rental_core\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C963DDEA-29E1-4EB5-BE09-B5700C3FFDC3}|Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core.csproj|solutionrelative:aug_25_car_rental_core\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Aug_25_Car_Rental_Core\\Models\\LoginRequest.cs",
+              "ToolTip": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Aug_25_Car_Rental_Core\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:07:45.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Aug_25_Car_Rental_Core\\Models\\User.cs",
+              "ToolTip": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Models\\User.cs",
+              "RelativeToolTip": "Aug_25_Car_Rental_Core\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:58:43.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Aug_25_Car_Rental_Core\\Models\\Vehicle.cs",
+              "ToolTip": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Aug_25_Car_Rental_Core\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:25:14.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Program.cs",
+              "RelativeDocumentMoniker": "Aug_25_Car_Rental_Core\\Program.cs",
+              "ToolTip": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Program.cs",
+              "RelativeToolTip": "Aug_25_Car_Rental_Core\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:29:47.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Aug_25_Car_Rental_Core\\Models\\JwtSettings.cs",
+              "ToolTip": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "Aug_25_Car_Rental_Core\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:08:22.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Models\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Aug_25_Car_Rental_Core\\Models\\IAuthService.cs",
+              "ToolTip": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Models\\IAuthService.cs",
+              "RelativeToolTip": "Aug_25_Car_Rental_Core\\Models\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:17:55.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Aug_25_Car_Rental_Core\\Models\\Customer.cs",
+              "ToolTip": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Models\\Customer.cs",
+              "RelativeToolTip": "Aug_25_Car_Rental_Core\\Models\\Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:31:04.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Models\\AuthService.cs",
+              "RelativeDocumentMoniker": "Aug_25_Car_Rental_Core\\Models\\AuthService.cs",
+              "ToolTip": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Models\\AuthService.cs",
+              "RelativeToolTip": "Aug_25_Car_Rental_Core\\Models\\AuthService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:18:35.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Aug_25_Car_Rental_Core\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Aug_25_Car_Rental_Core\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:33:55.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\appsettings.json",
+              "RelativeDocumentMoniker": "Aug_25_Car_Rental_Core\\appsettings.json",
+              "ToolTip": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\appsettings.json",
+              "RelativeToolTip": "Aug_25_Car_Rental_Core\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T06:43:55.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Aug_25_Car_Rental_Core\\appsettings.Development.json",
+              "ToolTip": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\appsettings.Development.json",
+              "RelativeToolTip": "Aug_25_Car_Rental_Core\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T07:04:18.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Aug_25_Car_Rental_Core\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Aug_25_Car_Rental_Core\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:45:07.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "Aug_25_Car_Rental_Core\\Controllers\\VehiclesController.cs",
+              "ToolTip": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "Aug_25_Car_Rental_Core\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAqwFwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:35:36.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Aug_25_Car_Rental_Core\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Wipro\\Car_Rental (1)\\Aug_25_Car_Rental_Core\\Aug_25_Car_Rental_Core\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Aug_25_Car_Rental_Core\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:22:56.997Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
