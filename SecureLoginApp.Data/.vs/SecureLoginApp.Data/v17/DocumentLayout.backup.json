@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SecureLoginApp.Data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|c:\\secureloginapp.data\\secureloginapp.data\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FAB6008-1006-4B30-9116-42F3E060222B}|SecureLoginApp.Data\\SecureLoginApp.Data.csproj|solutionrelative:secureloginapp.data\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\User\\Profile.cshtml",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\Views\\User\\Profile.cshtml",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\User\\Profile.cshtml",
+              "RelativeToolTip": "SecureLoginApp.Data\\Views\\User\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T12:57:25.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\Views\\Home\\AccessDenied.cshtml",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeToolTip": "SecureLoginApp.Data\\Views\\Home\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:28:14.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SecureLoginApp.Data\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:53:15.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SecureLoginApp.Data\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:43:23.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SecureLoginApp.Data\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:43:26.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SecureLoginApp.Data\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:41:15.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SecureLoginApp.Data\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:41:14.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SecureLoginApp.Data\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:02:03.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SecureLoginApp.Data\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:27:18.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SecureLoginApp.Data\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T12:57:59.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SecureLoginApp.Data\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:24:48.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SecureLoginApp.Data\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:41:10.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SecureLoginApp.Data\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:41:06.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "SecureLoginApp.Data\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T12:59:44.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Program.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\Program.cs",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Program.cs",
+              "RelativeToolTip": "SecureLoginApp.Data\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAIBJwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:00:33.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "SecureLoginApp.Data\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:52:27.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SecureLoginApp.Data\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:06:09.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SecureLoginApp.Data\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:55:37.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "SecureLoginApp.Data\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:55:21.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "SecureLoginApp.Data\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:53:49.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\appsettings.json",
+              "RelativeDocumentMoniker": "SecureLoginApp.Data\\appsettings.json",
+              "ToolTip": "C:\\SecureLoginApp.Data\\SecureLoginApp.Data\\appsettings.json",
+              "RelativeToolTip": "SecureLoginApp.Data\\appsettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAABRwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-30T13:02:24.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

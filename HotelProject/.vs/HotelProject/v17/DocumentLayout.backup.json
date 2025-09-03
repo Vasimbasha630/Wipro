@@ -1,0 +1,490 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro\\HotelProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\dtos\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\dtos\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\dtos\\createhoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\dtos\\createhoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\dtos\\createroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\dtos\\createroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\services\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\services\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|d:\\wipro\\hotelproject\\hotelproject\\hotelproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF530AEC-8E56-4C11-B885-1EA53563B560}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\hotelproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\Program.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Program.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\Program.cs",
+              "RelativeToolTip": "HotelProject\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAkwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:40:43.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\Services\\AuthService.cs",
+              "RelativeToolTip": "HotelProject\\Services\\AuthService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:43:42.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\Data\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Data\\DataSeeder.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\Data\\DataSeeder.cs",
+              "RelativeToolTip": "HotelProject\\Data\\DataSeeder.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:33:52.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotelsController.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\Controllers\\HotelsController.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Controllers\\HotelsController.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\Controllers\\HotelsController.cs",
+              "RelativeToolTip": "HotelProject\\Controllers\\HotelsController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAADwv4cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:41:52.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateRoomDto.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\DTOs\\CreateRoomDto.cs",
+              "RelativeDocumentMoniker": "HotelProject\\DTOs\\CreateRoomDto.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\DTOs\\CreateRoomDto.cs",
+              "RelativeToolTip": "HotelProject\\DTOs\\CreateRoomDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T17:25:52.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeDocumentMoniker": "HotelProject\\DTOs\\Auth\\LoginDto.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeToolTip": "HotelProject\\DTOs\\Auth\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:45:41.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "HotelProject\\DTOs\\Auth\\RegisterDto.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeToolTip": "HotelProject\\DTOs\\Auth\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:34:31.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HotelProject\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:41:49.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "HotelProject\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:36:12.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateHotelDto.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\DTOs\\CreateHotelDto.cs",
+              "RelativeDocumentMoniker": "HotelProject\\DTOs\\CreateHotelDto.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\DTOs\\CreateHotelDto.cs",
+              "RelativeToolTip": "HotelProject\\DTOs\\CreateHotelDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T17:26:15.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HotelDto.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\DTOs\\HotelDto.cs",
+              "RelativeDocumentMoniker": "HotelProject\\DTOs\\HotelDto.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\DTOs\\HotelDto.cs",
+              "RelativeToolTip": "HotelProject\\DTOs\\HotelDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:34:40.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Controllers\\BookingsController.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "HotelProject\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAADwv2sAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:41:50.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingDto.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\DTOs\\BookingDto.cs",
+              "RelativeDocumentMoniker": "HotelProject\\DTOs\\BookingDto.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\DTOs\\BookingDto.cs",
+              "RelativeToolTip": "HotelProject\\DTOs\\BookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:54:16.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoomDto.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\DTOs\\RoomDto.cs",
+              "RelativeDocumentMoniker": "HotelProject\\DTOs\\RoomDto.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\DTOs\\RoomDto.cs",
+              "RelativeToolTip": "HotelProject\\DTOs\\RoomDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:53:59.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Profiles\\MappingProfile.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "HotelProject\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:35:54.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Models\\Hotel.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\Models\\Hotel.cs",
+              "RelativeToolTip": "HotelProject\\Models\\Hotel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:35:20.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Models\\Booking.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\Models\\Booking.cs",
+              "RelativeToolTip": "HotelProject\\Models\\Booking.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:35:11.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Models\\Payment.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\Models\\Payment.cs",
+              "RelativeToolTip": "HotelProject\\Models\\Payment.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:35:28.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Models\\Room.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\Models\\Room.cs",
+              "RelativeToolTip": "HotelProject\\Models\\Room.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:35:34.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Models\\User.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\Models\\User.cs",
+              "RelativeToolTip": "HotelProject\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:35:41.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\appsettings.json",
+              "RelativeDocumentMoniker": "HotelProject\\appsettings.json",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\appsettings.json",
+              "RelativeToolTip": "HotelProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T10:42:53.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Services\\PaymentService.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\Services\\PaymentService.cs",
+              "RelativeToolTip": "HotelProject\\Services\\PaymentService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:37:05.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Services\\BookingService.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\Services\\BookingService.cs",
+              "RelativeToolTip": "HotelProject\\Services\\BookingService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAzwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:36:56.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\Services\\Interfaces\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Services\\Interfaces\\IPaymentService.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\Services\\Interfaces\\IPaymentService.cs",
+              "RelativeToolTip": "HotelProject\\Services\\Interfaces\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:36:25.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\Services\\Interfaces\\IBookingService.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Services\\Interfaces\\IBookingService.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\Services\\Interfaces\\IBookingService.cs",
+              "RelativeToolTip": "HotelProject\\Services\\Interfaces\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:36:19.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Controllers\\PaymentsController.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "HotelProject\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:41:53.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Controllers\\RoomsController.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "HotelProject\\Controllers\\RoomsController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:41:54.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "HotelProject\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:54:08.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HotelProject.csproj",
+              "DocumentMoniker": "D:\\Wipro\\HotelProject\\HotelProject\\HotelProject.csproj",
+              "RelativeDocumentMoniker": "HotelProject\\HotelProject.csproj",
+              "ToolTip": "D:\\Wipro\\HotelProject\\HotelProject\\HotelProject.csproj",
+              "RelativeToolTip": "HotelProject\\HotelProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-27T10:41:16.907Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

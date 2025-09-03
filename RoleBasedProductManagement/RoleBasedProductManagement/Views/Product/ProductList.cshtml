@@ -1,0 +1,52 @@
+﻿@model IEnumerable<RoleBasedProductManagement.Models.Product>
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<h2>Product List</h2>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">@TempData["Message"]</div>
+}
+
+@if (User.IsInRole("Admin"))
+{
+    <a asp-action="CreateProduct" class="btn btn-success mb-3">Create New Product</a>
+}
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>
+                    <!-- Edit button for all roles -->
+                    <a asp-action="EditProduct" asp-route-id="@product.Id" class="btn btn-primary btn-sm">Edit</a>
+
+                    <!-- Delete button -->
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a asp-action="DeleteProduct" asp-route-id="@product.Id" class="btn btn-danger btn-sm">Delete</a>
+                    }
+                    else
+                    {
+                        <!-- Disabled Delete for Managers -->
+                        <button class="btn btn-danger btn-sm" disabled title="Only Admin can delete">Delete</button>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

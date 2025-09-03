@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("jwt Assignment ex")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09cc049c78d946d1c55b1e7e2cc6b7c34a36302a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0c8c962b3c812015c3c5746186c573ecb9354ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("jwt Assignment ex")]
 [assembly: System.Reflection.AssemblyTitleAttribute("jwt Assignment ex")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
