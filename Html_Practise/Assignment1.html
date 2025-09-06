@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Spring Flowers School - Student Portal</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+<style>
+body { font-family: Arial; background:#f5f5f5; }
+header { background:#0d6efd; color:white; padding:15px; text-align:center; }
+nav { background:#fff; padding:10px; box-shadow:0 2px 5px rgba(0,0,0,0.1);}
+.menu { display:flex; justify-content:center; gap:20px; flex-wrap:wrap;}
+main.section { display:none; flex-direction:column; align-items:center; margin:20px 0; }
+table { width:95%; max-width:900px;}
+@media(max-width:768px){.menu button{width:100%; margin-bottom:10px;}}
+</style>
+</head>
+<body>
+
+<header><h1>Spring Flowers School - Student Portal</h1></header>
+
+<nav>
+<div class="menu">
+<button id="timeTableBtn" class="btn btn-primary">TimeTable</button>
+<button id="profileBtn" class="btn btn-secondary">Profile</button>
+<button id="assignmentsBtn" class="btn btn-secondary">Assignments</button>
+</div>
+</nav>
+
+<!-- TimeTable Section -->
+<main class="section" id="timetableSection">
+<h2>My Time Table</h2>
+<table class="table table-bordered table-striped table-hover">
+<thead class="table-dark">
+<tr><th>Day</th><th>Period 1</th><th>Period 2</th><th>Period 3</th><th>Period 4</th><th>Period 5</th></tr>
+</thead>
+<tbody>
+<tr><td>Monday</td><td>Math</td><td>English</td><td>Physics</td><td>Chemistry</td><td>Computer</td></tr>
+<tr><td>Tuesday</td><td>Biology</td><td>History</td><td>Geography</td><td>Math</td><td>English</td></tr>
+<tr><td>Wednesday</td><td>Physics</td><td>Chemistry</td><td>Computer</td><td>Biology</td><td>History</td></tr>
+<tr><td>Thursday</td><td>Geography</td><td>Math</td><td>English</td><td>Physics</td><td>Chemistry</td></tr>
+<tr><td>Friday</td><td>Computer</td><td>Biology</td><td>History</td><td>Geography</td><td>Math</td></tr>
+</tbody>
+</table>
+</main>
+
+<!-- Profile Section -->
+<main class="section" id="profileSection">
+<h2>My Profile</h2>
+<form class="w-75" id="profileForm">
+<div class="mb-3"><label class="form-label">Full Name</label><input type="text" class="form-control" id="name"></div>
+<div class="mb-3"><label class="form-label">Email</label><input type="email" class="form-control" id="email"></div>
+<div class="mb-3"><label class="form-label">Mobile Number</label><input type="tel" class="form-control" id="mobile"></div>
+<div class="mb-3"><label class="form-label">Upload Profile Picture</label><input type="file" class="form-control" id="profilePic"></div>
+<button type="submit" class="btn btn-success">Save Profile</button>
+</form>
+<div id="savedProfile" class="mt-3 w-75"></div>
+</main>
+
+<!-- Assignments Section -->
+<main class="section" id="assignmentsSection">
+<h2>Assignments</h2>
+<ul class="list-group w-75" id="assignmentsList">
+    <li class="list-group-item">Math - Chapter 5 Exercise</li>
+    <li class="list-group-item">English - Essay on Environment</li>
+    <li class="list-group-item">Physics - Lab Report</li>
+    <li class="list-group-item">Chemistry - Assignment 3</li>
+    <li class="list-group-item">Computer - Create a small project</li>
+</ul>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+const sections = {
+    timetable: document.getElementById('timetableSection'),
+    profile: document.getElementById('profileSection'),
+    assignments: document.getElementById('assignmentsSection')
+};
+
+// Navigation Buttons
+document.getElementById('timeTableBtn').addEventListener('click', ()=>{
+    sections.timetable.style.display='flex';
+    sections.profile.style.display='none';
+    sections.assignments.style.display='none';
+});
+document.getElementById('profileBtn').addEventListener('click', ()=>{
+    sections.profile.style.display='flex';
+    sections.timetable.style.display='none';
+    sections.assignments.style.display='none';
+});
+document.getElementById('assignmentsBtn').addEventListener('click', ()=>{
+    sections.assignments.style.display='flex';
+    sections.timetable.style.display='none';
+    sections.profile.style.display='none';
+});
+
+// Profile Save
+const profileForm = document.getElementById('profileForm');
+const savedDiv = document.getElementById('savedProfile');
+
+profileForm.addEventListener('submit', function(e){
+    e.preventDefault();
+    const profileData = {
+        name: document.getElementById('name').value,
+        email: document.getElementById('email').value,
+        mobile: document.getElementById('mobile').value
+    };
+    localStorage.setItem('studentProfile', JSON.stringify(profileData));
+    savedDiv.innerHTML = `<h5>Saved Profile:</h5>
+                          <p><strong>Name:</strong> ${profileData.name}</p>
+                          <p><strong>Email:</strong> ${profileData.email}</p>
+                          <p><strong>Mobile:</strong> ${profileData.mobile}</p>`;
+    alert("Profile saved successfully!");
+});
+
+// Load Profile on page load
+window.addEventListener('load', ()=>{
+    const savedProfile = JSON.parse(localStorage.getItem('studentProfile'));
+    if(savedProfile){
+        document.getElementById('name').value = savedProfile.name;
+        document.getElementById('email').value = savedProfile.email;
+        document.getElementById('mobile').value = savedProfile.mobile;
+        savedDiv.innerHTML = `<h5>Saved Profile:</h5>
+                              <p><strong>Name:</strong> ${savedProfile.name}</p>
+                              <p><strong>Email:</strong> ${savedProfile.email}</p>
+                              <p><strong>Mobile:</strong> ${savedProfile.mobile}</p>`;
+    }
+});
+</script>
+
+</body>
+</html>

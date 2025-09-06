@@ -1,0 +1,1 @@
+create table Login(   ID INT Primary Key IDENTITY(1,1),   UserName varchar(30) UNIQUE,   Password varchar(30))select * from Login;Select * from Account;
